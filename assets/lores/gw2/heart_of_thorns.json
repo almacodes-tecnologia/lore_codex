@@ -1,0 +1,27 @@
+{
+  "id": "heart_of_thorns",
+  "title": "Heart of Thorns",
+  "subtitle": "La guerra contra Mordremoth",
+
+  "type": "expansion",
+  "releaseYear": 2015,
+
+  "summary": "Tras los acontecimientos de la historia personal y la derrota de Zhaitan, el Comandante y sus aliados se enfrentan a una nueva amenaza en las profundidades de la Jungla de Maguuma. Mordremoth ha despertado y el Pacto se adentra en la jungla para detenerlo.",
+
+  "characters": [
+    "the_commander",
+    "caithe",
+    "trahearne",
+    "rytlock",
+    "mordremoth"
+  ],
+
+  "locations": [
+    "maguuma_jungle",
+    "verdant_brink",
+    "auric_basin",
+    "tangled_depths"
+  ],
+
+  "content": "La historia comienza cuando..."
+}

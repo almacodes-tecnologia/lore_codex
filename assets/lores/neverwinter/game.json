@@ -1,0 +1,109 @@
+{
+  "id": "neverwinter",
+  "title": "Neverwinter",
+  "shortTitle": "Neverwinter",
+  "developer": "Cryptic Studios",
+  "genre": "MMORPG",
+
+  "description": "Las aventuras de los héroes de Neverwinter y los grandes conflictos que amenazan la Costa de la Espada.",
+
+  "cover": "cover.jpg",
+
+  "chapters": [
+    {
+      "id": "original_campaign",
+      "title": "Neverwinter",
+      "description": "El comienzo de las aventuras en Neverwinter, desde la reconstrucción de la ciudad hasta los primeros grandes conflictos que amenazan la Costa de la Espada.",
+      "file": "original_campaign.json"
+    },
+    {
+      "id": "fury_of_the_feywild",
+      "title": "Fury of the Feywild",
+      "description": "Los héroes viajan al Bosque de Neverwinter para enfrentarse a las fuerzas feéricas y a las amenazas procedentes de las Tierras Salvajes.",
+      "file": "fury_of_the_feywild.json"
+    },
+    {
+      "id": "shadowmantle",
+      "title": "Shadowmantle",
+      "description": "Una nueva amenaza surge en la Costa de la Espada mientras los héroes se enfrentan a la influencia de la nigromancia y a nuevos enemigos.",
+      "file": "shadowmantle.json"
+    },
+    {
+      "id": "tyranny_of_dragons",
+      "title": "Tyranny of Dragons",
+      "description": "El Culto del Dragón pone en marcha un ambicioso plan para devolver a los dragones a una posición de poder y someter la Costa de la Espada.",
+      "file": "tyranny_of_dragons.json"
+    },
+    {
+      "id": "elemental_evil",
+      "title": "Elemental Evil",
+      "description": "Una nueva amenaza elemental se extiende por Faerûn mientras los héroes investigan extraños cultos y fuerzas capaces de desencadenar una gran catástrofe.",
+      "file": "elemental_evil.json"
+    },
+    {
+      "id": "storm_kings_thunder",
+      "title": "Storm King's Thunder",
+      "description": "Los gigantes alteran el equilibrio de poder de la Costa de la Espada y los héroes deben descubrir qué está provocando su repentina agitación.",
+      "file": "storm_kings_thunder.json"
+    },
+    {
+      "id": "tomb_of_annihilation",
+      "title": "Tomb of Annihilation",
+      "description": "Una maldición mortal amenaza las almas de los habitantes de Faerûn y conduce a los héroes hasta las peligrosas tierras de Chult.",
+      "file": "tomb_of_annihilation.json"
+    },
+    {
+      "id": "ravenloft",
+      "title": "Ravenloft",
+      "description": "Los héroes se adentran en Barovia, un dominio oscuro dominado por el vampiro Strahd von Zarovich.",
+      "file": "ravenloft.json"
+    },
+    {
+      "id": "undermountain",
+      "title": "Undermountain",
+      "description": "Los aventureros descienden a las profundidades de la Montaña Subterránea, el enorme complejo de mazmorras situado bajo Neverwinter.",
+      "file": "undermountain.json"
+    },
+    {
+      "id": "descent_into_avernus",
+      "title": "Descent into Avernus",
+      "description": "Los héroes se enfrentan a una amenaza infernal y viajan hasta Avernus, el primer nivel de los Nueve Infiernos.",
+      "file": "descent_into_avernus.json"
+    },
+    {
+      "id": "sharandar",
+      "title": "Sharandar",
+      "description": "Una antigua región feérica se convierte en el escenario de nuevos conflictos y misterios relacionados con las fuerzas de la naturaleza y la magia.",
+      "file": "sharandar.json"
+    },
+    {
+      "id": "dragonbone_vale",
+      "title": "Dragonbone Vale",
+      "description": "Los héroes regresan a la Costa de la Espada para enfrentarse a nuevas amenazas relacionadas con los dragones y sus antiguos enemigos.",
+      "file": "dragonbone_vale.json"
+    },
+    {
+      "id": "jungle_of_chult",
+      "title": "Jungla de Chult",
+      "description": "Nuevas aventuras llevan a los héroes de vuelta a las peligrosas junglas de Chult y a los misterios que permanecen ocultos en sus profundidades.",
+      "file": "jungle_of_chult.json"
+    },
+    {
+      "id": "northdark_reaches",
+      "title": "Northdark Reaches",
+      "description": "Los aventureros se adentran en las profundidades de la Infraoscuridad para enfrentarse a nuevos peligros y descubrir los secretos de las regiones subterráneas.",
+      "file": "northdark_reaches.json"
+    },
+    {
+      "id": "menzoberranzan",
+      "title": "Menzoberranzan",
+      "description": "La historia conduce a los héroes hasta la ciudad drow de Menzoberranzan y a los conflictos que amenazan con extenderse por la Infraoscuridad.",
+      "file": "menzoberranzan.json"
+    }
+  ],
+
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}
