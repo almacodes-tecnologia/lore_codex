@@ -1,9 +1,9 @@
 {
-  "id": "guild_wars_2",
-  "title": "Guild Wars 2",
+  "id": "path_of_exile",
+  "title": "Path of Exile",
   "shortTitle": "GW2",
-  "developer": "ArenaNet",
-  "genre": "MMORPG",
+  "developer": "",
+  "genre": "RPG",
 
   "description": "La historia de Tyria y sus habitantes.",
 
