@@ -1,50 +1,128 @@
 {
-  "id": "guild_wars_2",
-  "title": "Guild Wars 2",
-  "shortTitle": "GW2",
-  "developer": "ArenaNet",
-  "genre": "MMORPG",
+  "id": "undecember",
+  "title": "UNDECEMBER",
+  "shortTitle": "UD",
+  "developer": "Needs Games",
+  "genre": "Action RPG",
 
-  "description": "La historia de Tyria y sus habitantes.",
+  "description": "La historia de un mundo creado por doce dioses y del conflicto provocado por el regreso de una antigua fuerza que amenaza con alterar el orden establecido. El jugador encarna a un Rune Hunter que se ve involucrado en una guerra entre fuerzas divinas y oscuras mientras descubre los secretos del mundo, los Serpens y el origen de las amenazas que lo asolan.",
 
   "cover": "cover.jpg",
 
   "chapters": [
     {
-      "id": "personal_story",
-      "title": "Historia personal",
-      "description": "El comienzo de la historia del personaje y la lucha contra Zhaitan.",
-      "file": "personal_story.json"
+      "id": "world_creation",
+      "title": "La creación del mundo",
+      "description": "El origen del mundo de UNDECEMBER y la creación llevada a cabo por los doce dioses.",
+      "file": "world_creation.json"
     },
     {
-      "id": "living_world_1",
-      "title": "Mundo Viviente — Temporada 1",
-      "description": "Los acontecimientos posteriores a la campaña original.",
-      "file": "living_world_1.json"
+      "id": "twelve_gods",
+      "title": "Los doce dioses",
+      "description": "La historia de los doce dioses, sus dominios y el papel que desempeñan en el equilibrio del mundo.",
+      "file": "twelve_gods.json"
     },
     {
-      "id": "living_world_2",
-      "title": "Mundo Viviente — Temporada 2",
-      "description": "La aparición de una nueva amenaza para Tyria.",
-      "file": "living_world_2.json"
+      "id": "serpens",
+      "title": "Los Serpens",
+      "description": "El origen de los Serpens, su naturaleza y su relación con los acontecimientos que amenazan el mundo.",
+      "file": "serpens.json"
     },
     {
-      "id": "heart_of_thorns",
-      "title": "Heart of Thorns",
-      "description": "La guerra contra Mordremoth.",
-      "file": "heart_of_thorns.json"
+      "id": "ancient_conflict",
+      "title": "El antiguo conflicto",
+      "description": "Los acontecimientos del pasado que enfrentaron a las distintas fuerzas del mundo y prepararon el escenario para la historia del juego.",
+      "file": "ancient_conflict.json"
     },
     {
-      "id": "living_world_3",
-      "title": "Mundo Viviente — Temporada 3",
-      "description": "Los acontecimientos posteriores a Mordremoth.",
-      "file": "living_world_3.json"
+      "id": "rune_hunters",
+      "title": "Los Rune Hunters",
+      "description": "La historia de los Rune Hunters, sus habilidades y su papel frente a las amenazas sobrenaturales.",
+      "file": "rune_hunters.json"
     },
     {
-      "id": "path_of_fire",
-      "title": "Path of Fire",
-      "description": "El regreso de Balthazar y el conflicto en el Desierto de Cristal.",
-      "file": "path_of_fire.json"
+      "id": "rune_hunter",
+      "title": "El Rune Hunter",
+      "description": "El protagonista y las circunstancias que lo llevan a convertirse en un Rune Hunter y participar en el conflicto.",
+      "file": "rune_hunter.json"
+    },
+    {
+      "id": "act_1",
+      "title": "Acto I",
+      "description": "El comienzo de la aventura del Rune Hunter y los primeros acontecimientos que revelan que algo amenaza el equilibrio del mundo.",
+      "file": "act_1.json"
+    },
+    {
+      "id": "act_2",
+      "title": "Acto II",
+      "description": "La continuación del viaje y la investigación de las fuerzas responsables de los acontecimientos que están sacudiendo el mundo.",
+      "file": "act_2.json"
+    },
+    {
+      "id": "act_3",
+      "title": "Acto III",
+      "description": "El conflicto se intensifica y aparecen nuevas pistas sobre los Serpens y las fuerzas que se encuentran detrás de la amenaza.",
+      "file": "act_3.json"
+    },
+    {
+      "id": "act_4",
+      "title": "Acto IV",
+      "description": "El Rune Hunter se enfrenta a nuevos enemigos y descubre más información sobre el conflicto entre las fuerzas divinas y oscuras.",
+      "file": "act_4.json"
+    },
+    {
+      "id": "act_5",
+      "title": "Acto V",
+      "description": "Los acontecimientos alcanzan una nueva escala mientras el protagonista se aproxima al origen de la amenaza.",
+      "file": "act_5.json"
+    },
+    {
+      "id": "act_6",
+      "title": "Acto VI",
+      "description": "La guerra y los acontecimientos sobrenaturales continúan extendiéndose y el Rune Hunter debe descubrir cómo detenerlos.",
+      "file": "act_6.json"
+    },
+    {
+      "id": "act_7",
+      "title": "Acto VII",
+      "description": "Nuevas regiones, personajes y revelaciones amplían el conocimiento sobre el mundo y sus antiguas fuerzas.",
+      "file": "act_7.json"
+    },
+    {
+      "id": "act_8",
+      "title": "Acto VIII",
+      "description": "El conflicto entre las distintas fuerzas alcanza un punto crítico y salen a la luz nuevos secretos sobre los dioses.",
+      "file": "act_8.json"
+    },
+    {
+      "id": "act_9",
+      "title": "Acto IX",
+      "description": "El Rune Hunter continúa enfrentándose a las fuerzas que amenazan el mundo mientras se acerca al desenlace de la campaña.",
+      "file": "act_9.json"
+    },
+    {
+      "id": "act_10",
+      "title": "Acto X",
+      "description": "El desenlace de la campaña y el enfrentamiento con las fuerzas responsables de la crisis que ha afectado al mundo.",
+      "file": "act_10.json"
+    },
+    {
+      "id": "postgame",
+      "title": "Después de la campaña",
+      "description": "Los acontecimientos, personajes y amenazas introducidos en el contenido posterior a la historia principal.",
+      "file": "postgame.json"
+    },
+    {
+      "id": "seasonal_story",
+      "title": "Historias y contenido posterior",
+      "description": "Contenido narrativo añadido posteriormente al juego y acontecimientos que amplían el mundo después de la campaña.",
+      "file": "seasonal_story.json"
+    },
+    {
+      "id": "current_world",
+      "title": "El mundo actual",
+      "description": "La situación actual del mundo de UNDECEMBER y las principales amenazas y misterios que permanecen abiertos.",
+      "file": "current_world.json"
     }
   ],
 

@@ -1,0 +1,145 @@
+{
+  "id": "albion_online",
+  "title": "Albion Online",
+  "shortTitle": "AO",
+  "developer": "Sandbox Interactive",
+  "genre": "MMORPG",
+
+  "description": "La historia de Albion, un mundo medieval de fantasía donde los jugadores exploran, comercian, combaten y participan en los conflictos entre sus distintas facciones. Su trasfondo gira en torno a la conquista de Albion, sus habitantes, las fuerzas sobrenaturales del mundo y las guerras que han marcado su historia.",
+
+  "cover": "cover.jpg",
+
+  "chapters": [
+    {
+      "id": "world_of_albion",
+      "title": "El mundo de Albion",
+      "description": "Introducción al mundo, su origen, sus regiones y las fuerzas que han dado forma a Albion.",
+      "file": "world_of_albion.json"
+    },
+    {
+      "id": "old_continent",
+      "title": "El Viejo Continente",
+      "description": "La historia del continente de origen y de las civilizaciones que existían antes de la colonización de Albion.",
+      "file": "old_continent.json"
+    },
+    {
+      "id": "albion_discovery",
+      "title": "El descubrimiento de Albion",
+      "description": "La llegada de los habitantes del Viejo Continente a Albion y el comienzo de la colonización de sus territorios.",
+      "file": "albion_discovery.json"
+    },
+    {
+      "id": "royal_continent",
+      "title": "El Continente Real",
+      "description": "Las tierras controladas por las facciones reales y el desarrollo de sus ciudades, territorios y conflictos.",
+      "file": "royal_continent.json"
+    },
+    {
+      "id": "royal_factions",
+      "title": "Las facciones reales",
+      "description": "La historia y las características de las principales facciones del Continente Real y sus rivalidades.",
+      "file": "royal_factions.json"
+    },
+    {
+      "id": "heretic_faction",
+      "title": "Los Herejes",
+      "description": "La historia de los Herejes, una de las principales fuerzas hostiles de Albion.",
+      "file": "heretic_faction.json"
+    },
+    {
+      "id": "undead_faction",
+      "title": "Los No Muertos",
+      "description": "El origen y la naturaleza de los No Muertos y su presencia en las tierras de Albion.",
+      "file": "undead_faction.json"
+    },
+    {
+      "id": "keeper_faction",
+      "title": "Los Guardianes",
+      "description": "La historia de los Guardianes y de las antiguas fuerzas que protegen determinados territorios de Albion.",
+      "file": "keeper_faction.json"
+    },
+    {
+      "id": "morgana",
+      "title": "La Orden de Morgana",
+      "description": "La historia de Morgana y de la orden que lleva su nombre, una de las principales fuerzas de la antigua Albion.",
+      "file": "morgana.json"
+    },
+    {
+      "id": "demons",
+      "title": "Los Demonios",
+      "description": "Las fuerzas demoníacas de Albion y su relación con los conflictos sobrenaturales del mundo.",
+      "file": "demons.json"
+    },
+    {
+      "id": "hellgates",
+      "title": "Las Puertas del Infierno",
+      "description": "Las Hellgates y los peligros sobrenaturales que conectan Albion con dominios demoníacos.",
+      "file": "hellgates.json"
+    },
+    {
+      "id": "roads_of_avallon",
+      "title": "Los Caminos de Avalon",
+      "description": "El descubrimiento de los Caminos de Avalon y de los misteriosos territorios conectados con ellos.",
+      "file": "roads_of_avallon.json"
+    },
+    {
+      "id": "avalon",
+      "title": "Avalon",
+      "description": "La historia y los misterios de Avalon, sus guardianes y las antiguas fuerzas que permanecen en sus tierras.",
+      "file": "avalon.json"
+    },
+    {
+      "id": "mist",
+      "title": "Las Nieblas",
+      "description": "Las misteriosas Nieblas y su relación con los territorios y fenómenos sobrenaturales de Albion.",
+      "file": "mist.json"
+    },
+    {
+      "id": "crystal_realm",
+      "title": "El Reino de Cristal",
+      "description": "Los acontecimientos y misterios relacionados con el Reino de Cristal y sus conexiones con el mundo de Albion.",
+      "file": "crystal_realm.json"
+    },
+    {
+      "id": "brecilien",
+      "title": "Brecilien",
+      "description": "La ciudad de los espíritus y su papel en los misteriosos territorios de las Nieblas.",
+      "file": "brecilien.json"
+    },
+    {
+      "id": "avalonian_guardians",
+      "title": "Los Guardianes de Avalon",
+      "description": "Las antiguas criaturas y guardianes que habitan Avalon y protegen sus secretos.",
+      "file": "avalonian_guardians.json"
+    },
+    {
+      "id": "factions_war",
+      "title": "La guerra de facciones",
+      "description": "La lucha por el control de los territorios de Albion entre las distintas facciones y grupos de jugadores.",
+      "file": "factions_war.json"
+    },
+    {
+      "id": "guilds",
+      "title": "Gremios y territorios",
+      "description": "El papel de los gremios en la conquista territorial y en las guerras por el dominio de Albion.",
+      "file": "guilds.json"
+    },
+    {
+      "id": "world_evolution",
+      "title": "La evolución de Albion",
+      "description": "Los principales acontecimientos y cambios que han transformado Albion a lo largo de sus actualizaciones.",
+      "file": "world_evolution.json"
+    },
+    {
+      "id": "albion_online_present",
+      "title": "Albion en la actualidad",
+      "description": "La situación actual del mundo, sus principales regiones, facciones, conflictos y misterios pendientes.",
+      "file": "albion_online_present.json"
+    }
+  ],
+
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}

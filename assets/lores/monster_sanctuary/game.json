@@ -1,0 +1,103 @@
+{
+  "id": "monster_sanctuary",
+  "title": "Monster Sanctuary",
+  "shortTitle": "MS",
+  "developer": "Moi Rai Games",
+  "genre": "Metroidvania / RPG",
+
+  "description": "La historia del Monster Sanctuary, un mundo donde humanos y monstruos conviven y donde los Monster Keepers entrenan y utilizan monstruos para explorar, combatir y mantener el equilibrio del Santuario. El protagonista emprende un viaje para convertirse en un gran Keeper mientras descubre los secretos de los monstruos, los antiguos Keepers y las fuerzas que amenazan el equilibrio del mundo.",
+
+  "cover": "cover.jpg",
+
+  "chapters": [
+    {
+      "id": "world_and_sanctuary",
+      "title": "El mundo y el Santuario",
+      "description": "Introducción al mundo de Monster Sanctuary, la relación entre humanos y monstruos y el papel que desempeña el Santuario.",
+      "file": "world_and_sanctuary.json"
+    },
+    {
+      "id": "monster_keepers",
+      "title": "Los Monster Keepers",
+      "description": "La tradición de los Monster Keepers, su entrenamiento y su misión de mantener el equilibrio entre humanos y monstruos.",
+      "file": "monster_keepers.json"
+    },
+    {
+      "id": "keeper_lineage",
+      "title": "El legado de los Keepers",
+      "description": "La historia de los antiguos Keepers y el legado que han dejado en el Santuario.",
+      "file": "keeper_lineage.json"
+    },
+    {
+      "id": "spectral_keepers",
+      "title": "Los Guardianes Espectrales",
+      "description": "La historia de los cuatro Spectral Familiars y su importancia dentro de la tradición de los Keepers.",
+      "file": "spectral_keepers.json"
+    },
+    {
+      "id": "spectral_familiars",
+      "title": "Los Familiares Espectrales",
+      "description": "El vínculo del protagonista con su Familiar Espectral y el papel que desempeñan estas criaturas en la historia.",
+      "file": "spectral_familiars.json"
+    },
+    {
+      "id": "ancient_keepers",
+      "title": "Los antiguos Keepers",
+      "description": "Los acontecimientos relacionados con los antiguos guardianes del Santuario y los secretos que dejaron atrás.",
+      "file": "ancient_keepers.json"
+    },
+    {
+      "id": "sanctuary_regions",
+      "title": "Las regiones del Santuario",
+      "description": "Historia, características y acontecimientos importantes de las distintas regiones que forman el Monster Sanctuary.",
+      "file": "sanctuary_regions.json"
+    },
+    {
+      "id": "keepers_challenge",
+      "title": "El desafío de los Keepers",
+      "description": "El viaje del protagonista para demostrar su capacidad como Monster Keeper y enfrentarse a otros grandes entrenadores.",
+      "file": "keepers_challenge.json"
+    },
+    {
+      "id": "keeper_masters",
+      "title": "Los Keeper Masters",
+      "description": "Los grandes maestros de los Keepers, sus equipos, sus filosofías y su papel en el desarrollo del protagonista.",
+      "file": "keeper_masters.json"
+    },
+    {
+      "id": "monster_lore",
+      "title": "Los monstruos",
+      "description": "El origen, comportamiento y papel de las distintas especies de monstruos que habitan el Santuario.",
+      "file": "monster_lore.json"
+    },
+    {
+      "id": "ancient_magic",
+      "title": "La magia antigua",
+      "description": "Los secretos relacionados con la magia, los monstruos y las fuerzas antiguas que forman parte de la historia del Santuario.",
+      "file": "ancient_magic.json"
+    },
+    {
+      "id": "threat_to_sanctuary",
+      "title": "La amenaza al Santuario",
+      "description": "Los acontecimientos que revelan que el equilibrio del Santuario está en peligro y que existe una amenaza mucho mayor detrás de los conflictos iniciales.",
+      "file": "threat_to_sanctuary.json"
+    },
+    {
+      "id": "final_conflict",
+      "title": "El conflicto final",
+      "description": "La revelación de la verdadera amenaza y el enfrentamiento que decidirá el futuro del Monster Sanctuary.",
+      "file": "final_conflict.json"
+    },
+    {
+      "id": "postgame",
+      "title": "Después de la historia",
+      "description": "Los acontecimientos, desafíos y descubrimientos disponibles después de completar la historia principal.",
+      "file": "postgame.json"
+    }
+  ],
+
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}
