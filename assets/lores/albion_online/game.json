@@ -1,1 +1,55 @@
- 
+{
+  "id": "gw2",
+  "title": "Guild Wars 2",
+  "shortTitle": "GW2",
+  "developer": "ArenaNet",
+  "genre": "MMORPG",
+
+  "description": "La historia de Tyria y sus habitantes.",
+
+  "cover": "cover.jpg",
+
+  "chapters": [
+    {
+      "id": "personal_story",
+      "title": "Historia personal",
+      "description": "El comienzo de la historia del personaje y la lucha contra Zhaitan.",
+      "file": "personal_story.json"
+    },
+    {
+      "id": "living_world_1",
+      "title": "Mundo Viviente — Temporada 1",
+      "description": "Los acontecimientos posteriores a la campaña original.",
+      "file": "living_world_1.json"
+    },
+    {
+      "id": "living_world_2",
+      "title": "Mundo Viviente — Temporada 2",
+      "description": "La aparición de una nueva amenaza para Tyria.",
+      "file": "living_world_2.json"
+    },
+    {
+      "id": "heart_of_thorns",
+      "title": "Heart of Thorns",
+      "description": "La guerra contra Mordremoth.",
+      "file": "heart_of_thorns.json"
+    },
+    {
+      "id": "living_world_3",
+      "title": "Mundo Viviente — Temporada 3",
+      "description": "Los acontecimientos posteriores a Mordremoth.",
+      "file": "living_world_3.json"
+    },
+    {
+      "id": "path_of_fire",
+      "title": "Path of Fire",
+      "description": "El regreso de Balthazar y el conflicto en el Desierto de Cristal.",
+      "file": "path_of_fire.json"
+    }
+  ],
+
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+} 
