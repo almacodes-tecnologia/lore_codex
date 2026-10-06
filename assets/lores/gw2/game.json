@@ -10,74 +10,142 @@
     {
       "id": "personal_story",
       "title": "Historia personal",
+            "type": "historia_principal",
       "description": "El comienzo de la historia del personaje y la lucha de las naciones de Tyria contra el Dragón Anciano Zhaitan.",
       "file": "personal_story.json"
     },
     {
       "id": "living_world_1",
       "title": "Mundo Viviente — Temporada 1",
+            "type": "historia_principal",
       "description": "Tras la derrota de Zhaitan, Scarlet Briar reúne a distintas facciones hostiles de Tyria y sus planes culminan en el ataque a Arco del León y el despertar de una nueva amenaza.",
       "file": "living_world_1.json"
     },
     {
       "id": "living_world_2",
       "title": "Mundo Viviente — Temporada 2",
+            "type": "historia_principal",
       "description": "La amenaza de Mordremoth crece mientras el Comandante investiga el legado de Glint y descubre secretos sobre el pasado de Tyria y los sylvari.",
       "file": "living_world_2.json"
     },
     {
       "id": "heart_of_thorns",
       "title": "Heart of Thorns",
+            "type": "historia_principal",
       "description": "El Pacto se adentra en la Selva de Maguuma para enfrentarse al Dragón Anciano Mordremoth y rescatar a sus soldados y aliados desaparecidos.",
       "file": "heart_of_thorns.json"
     },
     {
       "id": "living_world_3",
       "title": "Mundo Viviente — Temporada 3",
+            "type": "historia_principal",
       "description": "Tras la derrota de Mordremoth, el Comandante se enfrenta a nuevas amenazas mientras investiga el regreso del Manto Blanco, la desaparición de Caudecus y el creciente desequilibrio de la magia.",
       "file": "living_world_3.json"
     },
     {
       "id": "path_of_fire",
       "title": "Path of Fire",
+            "type": "historia_principal",
       "description": "El Comandante viaja al Desierto de Cristal y Elona para detener a Balthazar, el dios humano de la guerra, y evitar que destruya al Dragón Anciano Kralkatorrik.",
       "file": "path_of_fire.json"
     },
     {
       "id": "living_world_4",
       "title": "Mundo Viviente — Temporada 4",
+            "type": "historia_principal",
       "description": "La amenaza de Kralkatorrik se intensifica mientras el Comandante y Aurene se enfrentan a Palawa Joko y a las consecuencias del desequilibrio de la magia.",
       "file": "living_world_4.json"
     },
     {
       "id": "icebrood_saga",
-      "title": "Saga de hielo",
+      "title": "Sangre y hielo",
+            "type": "historia_principal",
       "description": "La guerra en el norte de Tyria enfrenta al Comandante con Jormag, mientras las alianzas se resquebrajan y los conflictos entre los charr amenazan con extenderse por toda la región.",
       "file": "icebrood_saga.json"
     },
     {
       "id": "end_of_dragons",
       "title": "End of Dragons",
+            "type": "historia_principal",
       "description": "El Comandante y Aurene viajan a Cantha para perseguir a los Aetherblades y enfrentarse al final del antiguo ciclo de los Dragones Ancianos.",
       "file": "end_of_dragons.json"
     },
     {
       "id": "secrets_of_the_obscure",
       "title": "Secrets of the Obscure",
+            "type": "historia_principal",
       "description": "El Comandante descubre los secretos de la Torre del Mago y se une a la Astral Ward para enfrentarse a los Kryptis, criaturas que invaden Tyria a través de grietas procedentes de las Brumas.",
       "file": "secrets_of_the_obscure.json"
     },
     {
       "id": "janthir_wilds",
       "title": "Janthir Wilds",
+            "type": "historia_principal",
       "description": "Tras los acontecimientos de Secrets of the Obscure, el Comandante viaja a Janthir para explorar una región cargada de historia, conocer a los Lowland Kodan y forjar nuevas alianzas ante las amenazas que surgen tras el fin del ciclo de los Dragones Ancianos.",
       "file": "janthir_wilds.json"
     },
     {
       "id": "visions_of_eternity",
       "title": "Visions of Eternity",
+            "type": "historia_principal",
       "description": "El Comandante se embarca en una nueva aventura que amplía la historia de Tyria tras los acontecimientos de Janthir Wilds.",
       "file": "visions_of_eternity.json"
+    },
+    {
+      "id": "ascalonian_catacombs",
+      "title": "Catacumbas Ascalonianas",
+      "type": "mazmorra",
+      "description": "El grupo se adentra en las antiguas catacumbas de Ascalon y se enfrenta a los fantasmas de los muertos de la antigua nación, mientras Destiny's Edge intenta recuperar un objeto relacionado con su pasado.",
+      "file": "ascalonian_catacombs.json"
+    },
+    {
+      "id": "caudecus_manor",
+      "title": "Mansión de Caudecus",
+      "type": "mazmorra",
+      "description": "Los héroes investigan las actividades de Caudecus Beetlestone y se enfrentan a conflictos políticos y militares relacionados con el Manto Blanco y la nobleza de Kryta.",
+      "file": "caudecus_manor.json"
+    },
+    {
+      "id": "twilight_arbor",
+      "title": "Arboleda Crepuscular",
+      "type": "mazmorra",
+      "description": "La investigación lleva al grupo hasta el territorio de la Corte de la Pesadilla y de Faolain, revelando nuevos aspectos de la corrupción y los conflictos internos de los sylvari.",
+      "file": "twilight_arbor.json"
+    },
+    {
+      "id": "sorrows_embrace",
+      "title": "Abrazo del Dolor",
+      "type": "mazmorra",
+      "description": "El grupo se enfrenta a los excavadores y descubre los planes de los enanos de la Cima de Piedra, mientras Destiny's Edge continúa intentando superar las consecuencias de su pasado.",
+      "file": "sorrows_embrace.json"
+    },
+    {
+      "id": "citadel_of_flame",
+      "title": "Ciudadela de la Llama",
+      "type": "mazmorra",
+      "description": "Los héroes se infiltran en la Ciudadela de la Llama y se enfrentan a la Legión de la Llama, mientras Rytlock y sus antiguos compañeros intentan impedir que los charr renegados obtengan un poder devastador.",
+      "file": "citadel_of_flame.json"
+    },
+    {
+      "id": "honor_of_the_waves",
+      "title": "Honor de las Olas",
+      "type": "mazmorra",
+      "description": "La expedición viaja a una antigua fortaleza norn amenazada por los hijos de Svanir y descubre nuevos conflictos relacionados con Jormag y la lucha de los norn contra los Dragones Ancianos.",
+      "file": "honor_of_the_waves.json"
+    },
+    {
+      "id": "crucible_of_eternity",
+      "title": "Crisol de la Eternidad",
+      "type": "mazmorra",
+      "description": "El grupo se infiltra en una instalación de la Inquisa y descubre experimentos destinados a crear armas capaces de enfrentarse a los Dragones Ancianos, además de enfrentarse a Kudu y sus investigaciones.",
+      "file": "crucible_of_eternity.json"
+    },
+    {
+      "id": "arah",
+      "title": "Ciudad en Ruinas de Arah",
+      "type": "mazmorra",
+      "description": "Los héroes se adentran en las ruinas de Arah, la antigua ciudad de los dioses humanos, para enfrentarse a las fuerzas de Zhaitan y culminar la campaña contra el Dragón Anciano.",
+      "file": "arah.json"
     }
   ],
   "characters": [],
