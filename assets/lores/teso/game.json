@@ -1,1 +1,205 @@
- 
+{
+  "id": "the_elder_scrolls_online",
+  "title": "The Elder Scrolls Online",
+  "shortTitle": "ESO",
+  "developer": "ZeniMax Online Studios",
+  "genre": "MMORPG",
+
+  "description": "La historia de Tamriel durante la Segunda Era, aproximadamente mil años antes de los acontecimientos de The Elder Scrolls V: Skyrim. El jugador encarna al Vestige, un héroe atrapado en los grandes conflictos de Tamriel mientras las tres alianzas luchan por el control del continente y diversas fuerzas daédricas, antiguas civilizaciones y amenazas sobrenaturales ponen en peligro el mundo.",
+
+  "cover": "cover.jpg",
+
+  "chapters": [
+    {
+      "id": "tamriel_second_era",
+      "title": "Tamriel en la Segunda Era",
+      "description": "Introducción a Tamriel, la Segunda Era y la situación política y religiosa que precede a los acontecimientos de ESO.",
+      "file": "tamriel_second_era.json"
+    },
+    {
+      "id": "three_alliances",
+      "title": "Las Tres Alianzas",
+      "description": "La Guerra de las Alianzas y la lucha entre el Pacto de Ebonheart, el Dominio de Aldmeri y la Alianza de Daggerfall por el control del Trono Imperial.",
+      "file": "three_alliances.json"
+    },
+    {
+      "id": "vestige",
+      "title": "El Vestige",
+      "description": "La historia del protagonista, su muerte a manos de Molag Bal, su regreso a la vida y el descubrimiento de su naturaleza especial.",
+      "file": "vestige.json"
+    },
+    {
+      "id": "soul_shriven",
+      "title": "Soul Shriven",
+      "description": "El encarcelamiento del protagonista en Coldharbour y los acontecimientos que desencadenan su búsqueda de la forma de recuperar su alma.",
+      "file": "soul_shriven.json"
+    },
+    {
+      "id": "prophet",
+      "title": "El Profeta",
+      "description": "El encuentro con el Profeta y la formación de la alianza que permitirá al Vestige enfrentarse a Molag Bal.",
+      "file": "prophet.json"
+    },
+    {
+      "id": "planemeld",
+      "title": "La Fusión de los Mundos",
+      "description": "El Planemeld, el intento de Molag Bal de fusionar Nirn con Coldharbour y las consecuencias que amenazan a todo Tamriel.",
+      "file": "planemeld.json"
+    },
+    {
+      "id": "main_story",
+      "title": "La historia principal",
+      "description": "La aventura del Vestige a través de Tamriel, sus aliados y el conflicto que culmina en la lucha contra Molag Bal.",
+      "file": "main_story.json"
+    },
+    {
+      "id": "guilds",
+      "title": "Los gremios",
+      "description": "Las historias de los principales gremios de Tamriel, incluyendo los Fighters Guild, Mages Guild y otros grupos que amplían la historia del juego base.",
+      "file": "guilds.json"
+    },
+    {
+      "id": "cadwells_almanac",
+      "title": "El Almanaque de Cadwell",
+      "description": "Las aventuras de Cadwell y el recorrido por las tierras de las otras alianzas después de los acontecimientos principales.",
+      "file": "cadwells_almanac.json"
+    },
+    {
+      "id": "imperial_city",
+      "title": "La Ciudad Imperial",
+      "description": "La lucha por la Ciudad Imperial, ocupada por fuerzas de Molag Bal y convertida en uno de los principales escenarios de la guerra.",
+      "file": "imperial_city.json"
+    },
+    {
+      "id": "orsinium",
+      "title": "Orsinium",
+      "description": "La reconstrucción de Orsinium y los conflictos políticos y culturales de los Orcos en Wrothgar.",
+      "file": "orsinium.json"
+    },
+    {
+      "id": "dark_brotherhood",
+      "title": "La Hermandad Oscura",
+      "description": "La historia del Vestige junto a la Hermandad Oscura y sus asesinatos, rituales y conflictos internos.",
+      "file": "dark_brotherhood.json"
+    },
+    {
+      "id": "thieves_guild",
+      "title": "El Gremio de Ladrones",
+      "description": "La historia del Gremio de Ladrones en Abah's Landing y su enfrentamiento con fuerzas criminales y sobrenaturales.",
+      "file": "thieves_guild.json"
+    },
+    {
+      "id": "morrowind",
+      "title": "Morrowind",
+      "description": "El regreso a Vvardenfell y el conflicto relacionado con Vivec, los Ashlanders y una nueva amenaza que pone en peligro la isla.",
+      "file": "morrowind.json"
+    },
+    {
+      "id": "clockwork_city",
+      "title": "Clockwork City",
+      "description": "El viaje a la Ciudad Mecánica de Sotha Sil y la lucha contra una amenaza que pretende alterar el equilibrio de la creación.",
+      "file": "clockwork_city.json"
+    },
+    {
+      "id": "summerset",
+      "title": "Summerset",
+      "description": "La llegada a las islas de Summerset y el conflicto con los Psijic, los Maormer y las fuerzas relacionadas con los Daedra.",
+      "file": "summerset.json"
+    },
+    {
+      "id": "murkmire",
+      "title": "Murkmire",
+      "description": "La exploración de las tierras de los Argonianos y los secretos relacionados con la cultura y la historia de los Xit-Xaht.",
+      "file": "murkmire.json"
+    },
+    {
+      "id": "elsweyr",
+      "title": "Elsweyr",
+      "description": "El regreso de los dragones a Elsweyr, la crisis de los Khajiit y el conflicto contra las fuerzas que pretenden controlar a los dragones.",
+      "file": "elsweyr.json"
+    },
+    {
+      "id": "dragonhold",
+      "title": "Dragonhold",
+      "description": "La continuación de la historia de los dragones en el sur de Elsweyr y el enfrentamiento definitivo con las fuerzas responsables de su regreso.",
+      "file": "dragonhold.json"
+    },
+    {
+      "id": "dark_heart_of_skyrim",
+      "title": "El Corazón Oscuro de Skyrim",
+      "description": "El regreso a Skyrim y la aparición de una antigua amenaza vampírica relacionada con el ejército de los Grey Host.",
+      "file": "dark_heart_of_skyrim.json"
+    },
+    {
+      "id": "greymoor",
+      "title": "Greymoor",
+      "description": "La defensa de Skyrim occidental frente a los vampiros y la amenaza del Caballero Negro y el ejército de los Grey Host.",
+      "file": "greymoor.json"
+    },
+    {
+      "id": "markarth",
+      "title": "Markarth",
+      "description": "La continuación de la guerra contra los Grey Host en The Reach y la resolución del conflicto que comenzó en Skyrim.",
+      "file": "markarth.json"
+    },
+    {
+      "id": "blackwood",
+      "title": "Blackwood",
+      "description": "La aparición de Mehrunes Dagon y la conspiración de los cultistas que pretende abrir las puertas de Oblivion y alterar Tamriel.",
+      "file": "blackwood.json"
+    },
+    {
+      "id": "deadlands",
+      "title": "Deadlands",
+      "description": "El enfrentamiento final contra Mehrunes Dagon en su propio reino de Oblivion y el desenlace de la historia iniciada en Blackwood.",
+      "file": "deadlands.json"
+    },
+    {
+      "id": "high_isle",
+      "title": "High Isle",
+      "description": "El viaje al archipiélago de las Systres, donde las negociaciones de paz entre las facciones se ven amenazadas por la Ascendant Order.",
+      "file": "high_isle.json"
+    },
+    {
+      "id": "firesong",
+      "title": "Firesong",
+      "description": "La continuación de los acontecimientos de High Isle y el conflicto en la isla de Galen.",
+      "file": "firesong.json"
+    },
+    {
+      "id": "shadow_over_morrowind",
+      "title": "Sombras sobre Morrowind",
+      "description": "El comienzo de una nueva saga relacionada con Apocrypha, Hermaeus Mora y secretos capaces de poner en peligro la realidad.",
+      "file": "shadow_over_morrowind.json"
+    },
+    {
+      "id": "necrom",
+      "title": "Necrom",
+      "description": "El regreso a la península Telvanni y la ciudad de Necrom, donde el Vestige se ve envuelto en los secretos de Hermaeus Mora y una amenaza que afecta al propio reino de Apocrypha.",
+      "file": "necrom.json"
+    },
+    {
+      "id": "scions_of_ithelia",
+      "title": "Scions of Ithelia",
+      "description": "La continuación de los acontecimientos relacionados con Hermaeus Mora y la aparición de fuerzas vinculadas a un misterioso Príncipe Daédrico.",
+      "file": "scions_of_ithelia.json"
+    },
+    {
+      "id": "gold_road",
+      "title": "Gold Road",
+      "description": "El regreso al West Weald y la investigación sobre Ithelia, el Príncipe Daédrico olvidado, mientras sus seguidores intentan restaurar su poder y alterar el equilibrio de Tamriel.",
+      "file": "gold_road.json"
+    },
+    {
+      "id": "ithelia",
+      "title": "Ithelia, el Príncipe Olvidado",
+      "description": "La historia de Ithelia, su pasado, sus poderes y las consecuencias de su regreso para Tamriel y los demás Príncipes Daédricos.",
+      "file": "ithelia.json"
+    }
+  ],
+
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+} 
