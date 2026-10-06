@@ -4,50 +4,82 @@
   "shortTitle": "GW2",
   "developer": "ArenaNet",
   "genre": "MMORPG",
-
-  "description": "La historia de Tyria y sus habitantes.",
-
+  "description": "La historia de Tyria y sus habitantes a través de una narrativa continua que abarca la Historia personal, el Mundo Viviente y las expansiones del juego.",
   "cover": "cover.jpg",
-
   "chapters": [
     {
       "id": "personal_story",
       "title": "Historia personal",
-      "description": "El comienzo de la historia del personaje y la lucha contra Zhaitan.",
+      "description": "El comienzo de la historia del personaje y la lucha de las naciones de Tyria contra el Dragón Anciano Zhaitan.",
       "file": "personal_story.json"
     },
     {
       "id": "living_world_1",
       "title": "Mundo Viviente — Temporada 1",
-      "description": "Los acontecimientos posteriores a la campaña original.",
+      "description": "Tras la derrota de Zhaitan, Scarlet Briar reúne a distintas facciones hostiles de Tyria y sus planes culminan en el ataque a Arco del León y el despertar de una nueva amenaza.",
       "file": "living_world_1.json"
     },
     {
       "id": "living_world_2",
       "title": "Mundo Viviente — Temporada 2",
-      "description": "La aparición de una nueva amenaza para Tyria.",
+      "description": "La amenaza de Mordremoth crece mientras el Comandante investiga el legado de Glint y descubre secretos sobre el pasado de Tyria y los sylvari.",
       "file": "living_world_2.json"
     },
     {
       "id": "heart_of_thorns",
       "title": "Heart of Thorns",
-      "description": "La guerra contra Mordremoth.",
+      "description": "El Pacto se adentra en la Selva de Maguuma para enfrentarse al Dragón Anciano Mordremoth y rescatar a sus soldados y aliados desaparecidos.",
       "file": "heart_of_thorns.json"
     },
     {
       "id": "living_world_3",
       "title": "Mundo Viviente — Temporada 3",
-      "description": "Los acontecimientos posteriores a Mordremoth.",
+      "description": "Tras la derrota de Mordremoth, el Comandante se enfrenta a nuevas amenazas mientras investiga el regreso del Manto Blanco, la desaparición de Caudecus y el creciente desequilibrio de la magia.",
       "file": "living_world_3.json"
     },
     {
       "id": "path_of_fire",
       "title": "Path of Fire",
-      "description": "El regreso de Balthazar y el conflicto en el Desierto de Cristal.",
+      "description": "El Comandante viaja al Desierto de Cristal y Elona para detener a Balthazar, el dios humano de la guerra, y evitar que destruya al Dragón Anciano Kralkatorrik.",
       "file": "path_of_fire.json"
+    },
+    {
+      "id": "living_world_4",
+      "title": "Mundo Viviente — Temporada 4",
+      "description": "La amenaza de Kralkatorrik se intensifica mientras el Comandante y Aurene se enfrentan a Palawa Joko y a las consecuencias del desequilibrio de la magia.",
+      "file": "living_world_4.json"
+    },
+    {
+      "id": "icebrood_saga",
+      "title": "Saga de hielo",
+      "description": "La guerra en el norte de Tyria enfrenta al Comandante con Jormag, mientras las alianzas se resquebrajan y los conflictos entre los charr amenazan con extenderse por toda la región.",
+      "file": "icebrood_saga.json"
+    },
+    {
+      "id": "end_of_dragons",
+      "title": "End of Dragons",
+      "description": "El Comandante y Aurene viajan a Cantha para perseguir a los Aetherblades y enfrentarse al final del antiguo ciclo de los Dragones Ancianos.",
+      "file": "end_of_dragons.json"
+    },
+    {
+      "id": "secrets_of_the_obscure",
+      "title": "Secrets of the Obscure",
+      "description": "El Comandante descubre los secretos de la Torre del Mago y se une a la Astral Ward para enfrentarse a los Kryptis, criaturas que invaden Tyria a través de grietas procedentes de las Brumas.",
+      "file": "secrets_of_the_obscure.json"
+    },
+    {
+      "id": "janthir_wilds",
+      "title": "Janthir Wilds",
+      "description": "Tras los acontecimientos de Secrets of the Obscure, el Comandante viaja a Janthir para explorar una región cargada de historia, conocer a los Lowland Kodan y forjar nuevas alianzas ante las amenazas que surgen tras el fin del ciclo de los Dragones Ancianos.",
+      "file": "janthir_wilds.json"
+    },
+    {
+      "id": "visions_of_eternity",
+      "title": "Visions of Eternity",
+      "description": "El Comandante se embarca en una nueva aventura que amplía la historia de Tyria tras los acontecimientos de Janthir Wilds.",
+      "file": "visions_of_eternity.json"
     }
   ],
-
   "characters": [],
   "locations": [],
   "factions": [],
