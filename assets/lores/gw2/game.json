@@ -146,6 +146,104 @@
       "type": "mazmorra",
       "description": "Los héroes se adentran en las ruinas de Arah, la antigua ciudad de los dioses humanos, para enfrentarse a las fuerzas de Zhaitan y culminar la campaña contra el Dragón Anciano.",
       "file": "arah.json"
+    },
+    {
+      "id": "spirit_vale",
+      "title": "Spirit Vale",
+      "type": "raid",
+      "description": "La primera incursión lleva al grupo hasta el Valle de los Espíritus, donde los exploradores del Priorato de Durmand investigan una misteriosa brecha en las líneas ley y las extrañas criaturas que han aparecido en la zona.",
+      "file": "spirit_vale.json"
+    },
+    {
+      "id": "salvation_pass",
+      "title": "Salvation Pass",
+      "type": "raid",
+      "description": "La investigación continúa tras descubrir que el Manto Blanco está detrás de los acontecimientos del Valle de los Espíritus. El grupo se adentra en territorio enemigo para descubrir qué pretende conseguir el culto y rescatar a un importante prisionero.",
+      "file": "salvation_pass.json"
+    },
+    {
+      "id": "stronghold_of_the_faithful",
+      "title": "Stronghold of the Faithful",
+      "type": "raid",
+      "description": "Los héroes asaltan una fortaleza del Manto Blanco para descubrir el origen de su extraño poder y poner fin a los planes de Xera. La incursión culmina la historia del Valle de los Espíritus y del Manto Blanco relacionada con estas raids.",
+      "file": "stronghold_of_the_faithful.json"
+    },
+    {
+      "id": "bastion_of_the_penitent",
+      "title": "Bastion of the Penitent",
+      "type": "raid",
+      "description": "El grupo descubre una prisión oculta donde el Manto Blanco mantiene cautivos a seres relacionados con sus antiguos secretos. La incursión revela la historia de un prisionero especialmente importante y profundiza en el pasado del Manto Blanco y de los mursaat.",
+      "file": "bastion_of_the_penitent.json"
+    },
+    {
+      "id": "hall_of_chains",
+      "title": "Hall of Chains",
+      "type": "raid",
+      "description": "La investigación conduce a las Brumas y a un dominio relacionado con Grenth. Los héroes deben atravesar el Río de las Almas y enfrentarse a Dhuum, una antigua amenaza que amenaza con escapar de su prisión y consumir las almas de los muertos.",
+      "file": "hall_of_chains.json"
+    },
+    {
+      "id": "mythwright_gambit",
+      "title": "Mythwright Gambit",
+      "type": "raid",
+      "description": "La historia lleva al grupo hasta la Forja Mística y a los dominios de los djinn. Allí se enfrentan a Qadim, un poderoso djinn que ha adquirido un conocimiento y un poder que amenazan con alterar el equilibrio de las Brumas y del mundo.",
+      "file": "mythwright_gambit.json"
+    },
+    {
+      "id": "the_key_of_ahdashim",
+      "title": "The Key of Ahdashim",
+      "type": "raid",
+      "description": "Después de los acontecimientos de Mythwright Gambit, Qadim regresa a su hogar, la ciudad oculta de Ahdashim, para apoderarse de una fuente de poder ancestral. El grupo debe encontrar la llave y obtener la ayuda de los cardenales para detenerlo antes de que destruya a los djinn y altere el equilibrio natural del mundo.",
+      "file": "the_key_of_ahdashim.json"
+    },
+    {
+      "id": "mount_balrior",
+      "title": "Mount Balrior",
+      "type": "raid",
+      "description": "Los héroes se enfrentan a los titanes Greer, Decima y Ura en Mount Balrior, profundizando en la historia de los titanes y en los acontecimientos relacionados con Janthir Wilds.",
+      "file": "mount_balrior.json"
+    },
+    {
+      "id": "knight_of_the_thorn",
+      "title": "Knight of the Thorn",
+      "type": "historia_secundaria",
+      "description": "Tras la derrota de Mordremoth y la muerte de Trahearne, el Comandante recibe la oportunidad de restaurar Caladbolg. Guiado por Ridhais, deberá recuperar fragmentos y poderes naturales de la espada y enfrentarse a visiones de sus antiguos portadores antes de convertirse en su nuevo portador.",
+      "file": "knight_of_the_thorn.json"
+    },
+    {
+      "id": "thaumanova_reactor",
+      "title": "Thaumanova Reactor",
+      "type": "fractal",
+      "description": "El grupo revive los últimos momentos del reactor de Thaumanova antes de su catastrófica explosión, descubriendo los experimentos de la Inquisa y las consecuencias de manipular enormes cantidades de energía.",
+      "file": "thaumanova_reactor.json"
+    },
+    {
+      "id": "twilight_oasis",
+      "title": "Twilight Oasis",
+      "type": "fractal",
+      "description": "El grupo presencia un momento del pasado de Elona relacionado con el ascenso de Palawa Joko y los acontecimientos que llevaron a su dominio sobre el reino. El fractal permite conocer una parte de la historia de Elona que no se desarrolla directamente durante la campaña principal.",
+      "file": "twilight_oasis.json"
+    },
+    {
+      "id": "sunqua_peak",
+      "title": "Sunqua Peak",
+      "type": "fractal",
+      "description": "Los héroes ascienden por Sunqua Peak y descubren una historia relacionada con la corrupción de la naturaleza y con la entidad conocida como Ai. El fractal presenta una historia propia centrada en la pérdida, la desesperación y las consecuencias de no aceptar el cambio.",
+      "file": "sunqua_peak.json"
+    },
+    {
+      "id": "silent_surf",
+      "title": "Silent Surf",
+      "type": "fractal",
+      "description": "El grupo explora los restos de un barco en las aguas de Cantha y descubre la presencia de Kanaxai, una criatura vinculada a las antiguas leyendas de la región. El fractal conecta el presente de Guild Wars 2 con elementos de la historia de Cantha.",
+      "file": "silent_surf.json"
+    },
+    {
+      "id": "lonely_tower",
+      "title": "Lonely Tower",
+      "type": "fractal",
+      "description": "Los héroes se adentran en una torre aislada relacionada con las amenazas de los Kryptis y con los acontecimientos de Secrets of the Obscure. El fractal profundiza en personajes y acontecimientos que quedaron fuera de la campaña principal.",
+      "file": "lonely_tower.json"
     }
   ],
   "characters": [],
