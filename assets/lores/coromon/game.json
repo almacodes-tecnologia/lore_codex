@@ -1,0 +1,57 @@
+{
+  "id": "coromon",
+  "title": "Coromon",
+  "shortTitle": "Coromon",
+  "developer": "TRAGsoft",
+  "genre": "RPG / Captura de monstruos",
+  "description": "La historia de un joven Battle Researcher que se une a Lux Solis y termina formando parte de la Titan Taskforce. Lo que comienza como una investigación sobre los Titanes de Velua se convierte en una carrera para descubrir quién está detrás de una amenaza capaz de poner en peligro el equilibrio del mundo.",
+  "cover": "cover.jpg",
+  "chapters": [
+    {
+      "id": "el_inicio_y_lux_solis",
+      "title": "El inicio y Lux Solis",
+      "type": "historia_principal",
+      "description": "El protagonista comienza su formación como Battle Researcher y llega a Lux Solis para completar su incorporación a la organización. Allí conoce el mundo de los Coromon, recibe su primer compañero y descubre que su primer día de trabajo está a punto de cambiar por completo.",
+      "file": "el_inicio_y_lux_solis.json"
+    },
+    {
+      "id": "el_ataque_y_la_titan_taskforce",
+      "title": "El ataque y la Titan Taskforce",
+      "type": "historia_principal",
+      "description": "Un grupo de misteriosos invasores ataca Lux Solis utilizando un elemento que la ciencia de Velua no puede explicar. El incidente obliga a Lux Solis a investigar los acontecimientos y el protagonista termina incorporándose a la Titan Taskforce, cuya misión consiste en localizar a los Titanes y descubrir qué está ocurriendo.",
+      "file": "el_ataque_y_la_titan_taskforce.json"
+    },
+    {
+      "id": "la_busqueda_de_las_esencias",
+      "title": "La búsqueda de las Esencias",
+      "type": "historia_principal",
+      "description": "La investigación lleva al protagonista a recorrer distintas regiones de Velua en busca de las Esencias de los Titanes. Desde Donar Island y Pawbury hasta Wostin, Vlamma y las regiones heladas, cada nueva misión revela más pistas sobre los acontecimientos y acerca al protagonista a la verdadera naturaleza de la amenaza.",
+      "file": "la_busqueda_de_las_esencias.json"
+    },
+    {
+      "id": "los_seis_titanes",
+      "title": "Los seis Titanes",
+      "type": "historia_principal",
+      "description": "La Titan Taskforce continúa su búsqueda mientras el protagonista se enfrenta a los seis Titanes de Velua y obtiene sus Esencias. Cada encuentro está ligado a una región y a los acontecimientos que están alterando el equilibrio del mundo. Cuando finalmente se obtiene la última Esencia, el camino hacia el Equilibrium queda abierto.",
+      "file": "los_seis_titanes.json"
+    },
+    {
+      "id": "la_verdad_tras_el_ataque",
+      "title": "La verdad tras el ataque",
+      "type": "historia_principal",
+      "description": "Con las seis Esencias reunidas, las piezas de la investigación empiezan a encajar. El protagonista descubre que el ataque contra Lux Solis y la búsqueda de los Titanes forman parte de un plan mucho mayor. Las investigaciones sobre los invasores y el misterioso poder que utilizan conducen hasta la verdadera amenaza que se esconde detrás de los acontecimientos.",
+      "file": "la_verdad_tras_el_ataque.json"
+    },
+    {
+      "id": "el_equilibrium",
+      "title": "El Equilibrium",
+      "type": "historia_principal",
+      "description": "La aventura alcanza su conclusión cuando el protagonista se dirige hacia el Equilibrium. Las Esencias de los Titanes son necesarias para restaurar la armonía de Velua, pero antes deberá enfrentarse a quienes pretenden aprovecharse de ese poder. El conflicto final determina el futuro del mundo y pone fin a la misión de la Titan Taskforce.",
+      "file": "el_equilibrium.json"
+    }
+  ],
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}

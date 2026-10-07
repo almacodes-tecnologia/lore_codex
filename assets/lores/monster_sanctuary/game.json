@@ -5,94 +5,80 @@
   "developer": "Moi Rai Games",
   "genre": "Metroidvania / RPG",
 
-  "description": "La historia del Monster Sanctuary, un mundo donde humanos y monstruos conviven y donde los Monster Keepers entrenan y utilizan monstruos para explorar, combatir y mantener el equilibrio del Santuario. El protagonista emprende un viaje para convertirse en un gran Keeper mientras descubre los secretos de los monstruos, los antiguos Keepers y las fuerzas que amenazan el equilibrio del mundo.",
+  "description": "La historia de un joven Monster Keeper que recorre el Monster Sanctuary, conoce a los cuatro Spectral Keepers y se ve envuelto en una conspiración de los Alquimistas que amenaza el equilibrio del Santuario.",
 
   "cover": "cover.jpg",
 
   "chapters": [
     {
-      "id": "world_and_sanctuary",
-      "title": "El mundo y el Santuario",
-      "description": "Introducción al mundo de Monster Sanctuary, la relación entre humanos y monstruos y el papel que desempeña el Santuario.",
-      "file": "world_and_sanctuary.json"
+      "id": "el_inicio_y_los_monster_keepers",
+      "title": "El inicio y los Monster Keepers",
+      "type": "historia_principal",
+      "description": "El protagonista comienza su camino como Monster Keeper, recibe a su Spectral Familiar y conoce a otros jóvenes Keepers mientras descubre cómo funciona el Santuario y cuál es el papel de los Guardianes.",
+      "file": "el_inicio_y_los_monster_keepers.json"
     },
     {
-      "id": "monster_keepers",
-      "title": "Los Monster Keepers",
-      "description": "La tradición de los Monster Keepers, su entrenamiento y su misión de mantener el equilibrio entre humanos y monstruos.",
-      "file": "monster_keepers.json"
+      "id": "el_santuario_y_sus_regiones",
+      "title": "El Santuario y sus regiones",
+      "type": "historia_principal",
+      "description": "El protagonista recorre las principales regiones del Monster Sanctuary y supera los desafíos de los distintos Guardianes y Campeones. Los acontecimientos de estas zonas permiten obtener los Sanctuary Tokens y descubrir progresivamente que existe algo más detrás de los problemas que afectan al Santuario.",
+      "file": "el_santuario_y_sus_regiones.json"
     },
     {
-      "id": "keeper_lineage",
-      "title": "El legado de los Keepers",
-      "description": "La historia de los antiguos Keepers y el legado que han dejado en el Santuario.",
-      "file": "keeper_lineage.json"
+      "id": "los_spectral_keepers",
+      "title": "Los Spectral Keepers",
+      "type": "historia_principal",
+      "description": "La aventura profundiza en la historia de los cuatro Spectral Keepers, sus linajes y sus Familiares Espectrales. El protagonista descubre por qué estas criaturas son fundamentales para la historia del Santuario y para los acontecimientos que están teniendo lugar.",
+      "file": "los_spectral_keepers.json"
     },
     {
-      "id": "spectral_keepers",
-      "title": "Los Guardianes Espectrales",
-      "description": "La historia de los cuatro Spectral Familiars y su importancia dentro de la tradición de los Keepers.",
-      "file": "spectral_keepers.json"
+      "id": "los_alquimistas",
+      "title": "Los Alquimistas",
+      "type": "historia_principal",
+      "description": "El protagonista descubre que una organización de Alquimistas está actuando dentro del Santuario. Sus miembros investigan el poder de los monstruos y los Spectral Familiars mientras sus planes empiezan a amenazar el equilibrio del Santuario.",
+      "file": "los_alquimistas.json"
     },
     {
-      "id": "spectral_familiars",
-      "title": "Los Familiares Espectrales",
-      "description": "El vínculo del protagonista con su Familiar Espectral y el papel que desempeñan estas criaturas en la historia.",
-      "file": "spectral_familiars.json"
+      "id": "mystical_workshop",
+      "title": "Mystical Workshop",
+      "type": "historia_principal",
+      "description": "El protagonista llega al taller donde habitan numerosos monstruos mecánicos y descubre un nuevo arco relacionado directamente con los Alquimistas. La investigación permite conocer más sobre Marduk, el líder de los Alquimistas, y sobre sus verdaderos objetivos.",
+      "file": "mystical_workshop.json"
     },
     {
-      "id": "ancient_keepers",
-      "title": "Los antiguos Keepers",
-      "description": "Los acontecimientos relacionados con los antiguos guardianes del Santuario y los secretos que dejaron atrás.",
-      "file": "ancient_keepers.json"
+      "id": "el_underworld",
+      "title": "El Underworld",
+      "type": "historia_principal",
+      "description": "Tras reunir los cuatro Sanctuary Tokens, el protagonista obtiene acceso al Underworld, una región prohibida que llevaba siglos sin ser explorada. Allí continúa la investigación sobre los acontecimientos que amenazan al Santuario y se descubren nuevas piezas del plan de los Alquimistas.",
+      "file": "el_underworld.json"
     },
     {
-      "id": "sanctuary_regions",
-      "title": "Las regiones del Santuario",
-      "description": "Historia, características y acontecimientos importantes de las distintas regiones que forman el Monster Sanctuary.",
-      "file": "sanctuary_regions.json"
+      "id": "la_torre_abandonada",
+      "title": "La Torre Abandonada",
+      "type": "historia_principal",
+      "description": "Después de completar los distintos arcos de las regiones del Santuario, el protagonista puede acceder a la Abandoned Tower. La torre contiene algunos de los monstruos más peligrosos del Santuario y se convierte en el escenario del desenlace de la historia principal.",
+      "file": "la_torre_abandonada.json"
     },
     {
-      "id": "keepers_challenge",
-      "title": "El desafío de los Keepers",
-      "description": "El viaje del protagonista para demostrar su capacidad como Monster Keeper y enfrentarse a otros grandes entrenadores.",
-      "file": "keepers_challenge.json"
-    },
-    {
-      "id": "keeper_masters",
-      "title": "Los Keeper Masters",
-      "description": "Los grandes maestros de los Keepers, sus equipos, sus filosofías y su papel en el desarrollo del protagonista.",
-      "file": "keeper_masters.json"
-    },
-    {
-      "id": "monster_lore",
-      "title": "Los monstruos",
-      "description": "El origen, comportamiento y papel de las distintas especies de monstruos que habitan el Santuario.",
-      "file": "monster_lore.json"
-    },
-    {
-      "id": "ancient_magic",
-      "title": "La magia antigua",
-      "description": "Los secretos relacionados con la magia, los monstruos y las fuerzas antiguas que forman parte de la historia del Santuario.",
-      "file": "ancient_magic.json"
-    },
-    {
-      "id": "threat_to_sanctuary",
-      "title": "La amenaza al Santuario",
-      "description": "Los acontecimientos que revelan que el equilibrio del Santuario está en peligro y que existe una amenaza mucho mayor detrás de los conflictos iniciales.",
-      "file": "threat_to_sanctuary.json"
-    },
-    {
-      "id": "final_conflict",
-      "title": "El conflicto final",
-      "description": "La revelación de la verdadera amenaza y el enfrentamiento que decidirá el futuro del Monster Sanctuary.",
-      "file": "final_conflict.json"
+      "id": "marduk_y_el_mad_lord",
+      "title": "Marduk y el Mad Lord",
+      "type": "historia_principal",
+      "description": "En la parte final de la aventura se revela la verdadera dimensión de los planes de Marduk y la amenaza relacionada con el Mad Lord. El protagonista debe enfrentarse a las fuerzas que se encuentran detrás de la crisis y poner fin al conflicto que amenaza al Santuario.",
+      "file": "marduk_y_el_mad_lord.json"
     },
     {
       "id": "postgame",
       "title": "Después de la historia",
-      "description": "Los acontecimientos, desafíos y descubrimientos disponibles después de completar la historia principal.",
+      "type": "historia_secundaria",
+      "description": "Tras completar la historia principal, el protagonista puede continuar su aventura, enfrentarse a los últimos Campeones y aspirar al rango de Keeper Master. También aparecen nuevos desafíos y contenidos opcionales relacionados con el final del juego.",
       "file": "postgame.json"
+    },
+    {
+      "id": "forgotten_world",
+      "title": "Forgotten World",
+      "type": "dlc",
+      "description": "El protagonista descubre un enorme ecosistema subterráneo que existía mucho antes de la creación del Monster Sanctuary. La exploración de Forgotten World revela nuevos secretos sobre los orígenes de este mundo y sus antiguos habitantes.",
+      "file": "forgotten_world.json"
     }
   ],
 

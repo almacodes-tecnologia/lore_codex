@@ -1,0 +1,89 @@
+{
+  "id": "cassette_beasts",
+  "title": "Cassette Beasts",
+  "shortTitle": "CB",
+  "developer": "Bytten Studio",
+  "genre": "RPG / Captura de monstruos",
+
+  "description": "La historia de una persona que llega misteriosamente a New Wirral, una isla aislada de la realidad donde humanos de distintas épocas y mundos conviven con extrañas criaturas. Para encontrar el camino de vuelta a casa, el protagonista se une a otros habitantes de la isla, aprende a transformarse en monstruos mediante cintas de casete y descubre la verdadera naturaleza de los Archangels y de New Wirral.",
+
+  "cover": "cover.jpg",
+
+  "chapters": [
+    {
+      "id": "llegada_a_new_wirral",
+      "title": "La llegada a New Wirral",
+      "type": "historia_principal",
+      "description": "El protagonista aparece en una extraña isla sin saber cómo ha llegado hasta allí. Conoce a Kayleigh, descubre la existencia de los monstruos y aprende a utilizar las cintas de casete para transformarse. El encuentro con Morgante pone en marcha la búsqueda de una salida de New Wirral.",
+      "file": "llegada_a_new_wirral.json"
+    },
+    {
+      "id": "la_cancion_de_morgante",
+      "title": "La canción de Morgante",
+      "type": "historia_principal",
+      "description": "Morgante promete conocer un camino para abandonar New Wirral, pero su canción está incompleta. El protagonista debe localizar y derrotar a otros Archangels para recuperar las pistas necesarias y descubrir el camino hacia Night's Bridge Station.",
+      "file": "la_cancion_de_morgante.json"
+    },
+    {
+      "id": "los_archangels",
+      "title": "Los Archangels",
+      "type": "historia_principal",
+      "description": "La búsqueda lleva al protagonista por las distintas zonas de New Wirral y permite descubrir la naturaleza y los poderes de los Archangels. Cada encuentro revela nuevas piezas sobre la historia de la isla y sobre la relación entre estas entidades.",
+      "file": "los_archangels.json"
+    },
+    {
+      "id": "aleph_y_el_mundo_muerto",
+      "title": "Aleph y el Mundo Muerto",
+      "type": "historia_principal",
+      "description": "La aparición de Aleph cambia el rumbo de la aventura. El protagonista descubre que los Archangels están relacionados entre sí y que Aleph está reuniendo a aquellos que han sido derrotados. Tras enfrentarse a él, el protagonista es enviado a un mundo muerto y debe encontrar una forma de regresar a New Wirral.",
+      "file": "aleph_y_el_mundo_muerto.json"
+    },
+    {
+      "id": "el_pasado_de_new_wirral",
+      "title": "El pasado de New Wirral",
+      "type": "historia_principal",
+      "description": "Las pistas encontradas durante el viaje permiten reconstruir parte del pasado de los Archangels, de Morgante y de Aleph. El protagonista descubre que los acontecimientos actuales están relacionados con conflictos mucho más antiguos y con la verdadera naturaleza de New Wirral.",
+      "file": "el_pasado_de_new_wirral.json"
+    },
+    {
+      "id": "nights_bridge_station",
+      "title": "Night's Bridge Station",
+      "type": "historia_principal",
+      "description": "La canción de Morgante conduce finalmente hasta Night's Bridge Station, el lugar que guarda el camino para abandonar New Wirral. Allí se revelan secretos sobre Morgante, Mordread y Aleph, y el protagonista descubre qué pretende hacer Aleph con los Archangels que ha reunido.",
+      "file": "nights_bridge_station.json"
+    },
+    {
+      "id": "aleph_null",
+      "title": "Aleph Null",
+      "type": "historia_principal",
+      "description": "El enfrentamiento con Aleph alcanza su punto culminante. Aleph y los Archangels que ha reunido utilizan el poder de la fusión para crear una forma mucho más poderosa. El protagonista y sus compañeros deben descubrir el verdadero potencial de la fusión y enfrentarse a Aleph Null.",
+      "file": "aleph_null.json"
+    },
+    {
+      "id": "la_verdad_sobre_los_archangels",
+      "title": "La verdad sobre los Archangels",
+      "type": "historia_principal",
+      "description": "Tras la batalla final se revela la verdadera naturaleza de los Archangels, su relación con las ideas y deseos humanos y el papel que desempeñan dentro de la realidad. El final da un nuevo significado a todo lo ocurrido en New Wirral.",
+      "file": "la_verdad_sobre_los_archangels.json"
+    },
+    {
+      "id": "postgame_y_los_rogue_fusions",
+      "title": "Postgame y los Rogue Fusions",
+      "type": "historia_secundaria",
+      "description": "Después de la historia principal, el protagonista se convierte en Ranger y puede acceder a nuevas investigaciones y misiones. Esta nueva historia explora el origen de los Rogue Fusions, introduce nuevos personajes y amplía el mundo de New Wirral.",
+      "file": "postgame_y_los_rogue_fusions.json"
+    },
+    {
+      "id": "pier_of_the_unknown",
+      "title": "Pier of the Unknown",
+      "type": "dlc",
+      "description": "Una aventura adicional lleva al protagonista y sus compañeros a una nueva zona de New Wirral con su propia historia, personajes y misterios.",
+      "file": "pier_of_the_unknown.json"
+    }
+  ],
+
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}

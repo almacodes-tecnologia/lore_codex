@@ -1,0 +1,75 @@
+{
+  "id": "nexomon_extinction",
+  "title": "Nexomon: Extinction",
+  "shortTitle": "NE",
+  "developer": "VEWO Interactive",
+  "genre": "RPG / Captura de monstruos",
+
+  "description": "La historia de un joven Tamer que abandona el orfanato y se une a la Guild para enfrentarse a los Nexomon salvajes y a los poderosos Tyrants que amenazan el equilibrio del mundo. Su viaje le lleva a descubrir la historia de Omnicron, la guerra entre humanos y Nexomon y los acontecimientos que pueden provocar una nueva extinción.",
+
+  "cover": "cover.jpg",
+
+  "chapters": [
+    {
+      "id": "el_orfanato_y_la_guild",
+      "title": "El orfanato y la Guild",
+      "type": "historia_principal",
+      "description": "El protagonista comienza su aventura en el orfanato y pronto se ve obligado a abandonar su vida cotidiana. Su primer contacto con los Nexomon y con la Guild lo introduce en un mundo amenazado por criaturas cada vez más poderosas.",
+      "file": "el_orfanato_y_la_guild.json"
+    },
+    {
+      "id": "los_tyrants",
+      "title": "Los Tyrants",
+      "type": "historia_principal",
+      "description": "El protagonista descubre que algunos Nexomon poseen un poder extraordinario y son conocidos como Tyrants. La Guild investiga estas criaturas mientras el protagonista recorre distintas regiones y comienza a comprender la magnitud de la amenaza.",
+      "file": "los_tyrants.json"
+    },
+    {
+      "id": "la_guerra_de_omnicron",
+      "title": "La guerra de Omnicron",
+      "type": "historia_principal",
+      "description": "Las investigaciones revelan la historia de Omnicron, el antiguo King of Monsters, y la guerra que enfrentó a los humanos contra los Nexomon. El protagonista descubre que los acontecimientos del pasado siguen teniendo consecuencias en el presente.",
+      "file": "la_guerra_de_omnicron.json"
+    },
+    {
+      "id": "los_hijos_de_omnicron",
+      "title": "Los hijos de Omnicron",
+      "type": "historia_principal",
+      "description": "La existencia de los descendientes de Omnicron adquiere una importancia cada vez mayor. El protagonista descubre cómo los antiguos linajes y los poderes de los Tyrants están relacionados con los acontecimientos que amenazan al mundo.",
+      "file": "los_hijos_de_omnicron.json"
+    },
+    {
+      "id": "la_amenaza_de_la_extincion",
+      "title": "La amenaza de la extinción",
+      "type": "historia_principal",
+      "description": "Los conflictos entre humanos, Nexomon y Tyrants alcanzan un punto crítico. El protagonista debe recorrer las regiones de Nexomon Extinction mientras descubre quién está detrás de la nueva crisis y qué pretende conseguir.",
+      "file": "la_amenaza_de_la_extincion.json"
+    },
+    {
+      "id": "el_final_de_la_guerra",
+      "title": "El final de la guerra",
+      "type": "historia_principal",
+      "description": "La investigación conduce al protagonista hacia el enfrentamiento definitivo. Las revelaciones sobre Omnicron, los Tyrants y los personajes que han acompañado al protagonista convergen en una batalla que decidirá el futuro del mundo.",
+      "file": "el_final_de_la_guerra.json"
+    },
+    {
+      "id": "postgame",
+      "title": "Después de la historia",
+      "type": "historia_secundaria",
+      "description": "Tras completar la historia principal, el mundo continúa ofreciendo nuevas investigaciones y acontecimientos. El protagonista puede descubrir secretos relacionados con los Dragones, los Tyrants, los antiguos personajes y otros Nexomon legendarios.",
+      "file": "postgame.json"
+    },
+    {
+      "id": "abyssal_tyrants",
+      "title": "Abyssal Tyrants",
+      "type": "historia_secundaria",
+      "description": "Una nueva línea de misiones postgame lleva al protagonista hasta una región desconocida para investigar el regreso de los Abyssal Tyrants. La aventura amplía la historia después del final del juego y presenta nuevos personajes, acontecimientos y secretos.",
+      "file": "abyssal_tyrants.json"
+    }
+  ],
+
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}

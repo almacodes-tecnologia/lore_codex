@@ -1,0 +1,36 @@
+{
+  "id": "evocreo2",
+  "title": "EvoCreo 2",
+  "shortTitle": "EvoCreo 2",
+  "developer": "Ilmfinity Studios",
+  "genre": "RPG de captura de criaturas",
+  "description": "La historia de un cadete que recorre el mundo de Shoru mientras investiga la desaparición de los Creo y descubre los secretos que se esconden tras sus misteriosos orígenes.",
+  "cover": "cover.jpg",
+  "chapters": [
+    {
+      "id": "historia_principal",
+      "title": "Historia principal",
+      "type": "historia_principal",
+      "description": "Un joven cadete comienza su formación como Evoker en Shoru mientras los Creo empiezan a desaparecer misteriosamente. Su investigación lo lleva a recorrer distintas regiones, conocer nuevas organizaciones y descubrir una amenaza relacionada con el pasado y el origen de los Creo.",
+      "file": "historia_principal.json"
+    },
+    {
+      "id": "prime_dimension",
+      "title": "Prime Dimension",
+      "type": "historia_secundaria",
+      "description": "Una nueva aventura lleva al protagonista hasta la Prime Dimension, un lugar relacionado con los antiguos Prime Creo. Allí deberá descubrir qué se esconde detrás de esta dimensión y enfrentarse a una nueva amenaza.",
+      "file": "prime_dimension.json"
+    },
+    {
+      "id": "zenith_islands",
+      "title": "Zenith Islands",
+      "type": "historia_secundaria",
+      "description": "El protagonista viaja a las Islas Zenith, donde varias compañías mineras compiten por un nuevo tipo de gemma negra. La explotación de estos recursos está provocando tensiones entre las compañías y los habitantes de las islas, mientras salen a la luz los secretos de la región.",
+      "file": "zenith_islands.json"
+    }
+  ],
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}
