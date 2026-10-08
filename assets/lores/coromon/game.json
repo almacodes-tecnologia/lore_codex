@@ -11,7 +11,7 @@
       "id": "el_inicio_y_lux_solis",
       "title": "El inicio y Lux Solis",
       "type": "historia_principal",
-      "description": "El protagonista comienza su formación como Battle Researcher y llega a Lux Solis para completar su incorporación a la organización. Allí conoce el mundo de los Coromon, recibe su primer compañero y descubre que su primer día de trabajo está a punto de cambiar por completo.",
+      "description": "El protagonista comienza su formación como Battle Researcher y llega a Lux Solis para completar su incorporación a la organización. Allí conoce el mundo de los Coromon, recibe a su primer compañero y descubre que su primer día de trabajo está a punto de cambiar por completo.",
       "file": "el_inicio_y_lux_solis.json"
     },
     {
@@ -22,31 +22,24 @@
       "file": "el_ataque_y_la_titan_taskforce.json"
     },
     {
-      "id": "la_busqueda_de_las_esencias",
-      "title": "La búsqueda de las Esencias",
+      "id": "la_busqueda_de_las_seis_esencias",
+      "title": "La búsqueda de las seis Esencias",
       "type": "historia_principal",
-      "description": "La investigación lleva al protagonista a recorrer distintas regiones de Velua en busca de las Esencias de los Titanes. Desde Donar Island y Pawbury hasta Wostin, Vlamma y las regiones heladas, cada nueva misión revela más pistas sobre los acontecimientos y acerca al protagonista a la verdadera naturaleza de la amenaza.",
-      "file": "la_busqueda_de_las_esencias.json"
-    },
-    {
-      "id": "los_seis_titanes",
-      "title": "Los seis Titanes",
-      "type": "historia_principal",
-      "description": "La Titan Taskforce continúa su búsqueda mientras el protagonista se enfrenta a los seis Titanes de Velua y obtiene sus Esencias. Cada encuentro está ligado a una región y a los acontecimientos que están alterando el equilibrio del mundo. Cuando finalmente se obtiene la última Esencia, el camino hacia el Equilibrium queda abierto.",
-      "file": "los_seis_titanes.json"
+      "description": "Como miembro de la Titan Taskforce, el protagonista recorre las distintas regiones de Velua para localizar a los seis Titanes y obtener sus Esencias. Desde Donar Island y Pawbury hasta Wostin, Vlamma y las regiones heladas, cada expedición presenta nuevos desafíos y aporta pistas sobre la amenaza que se cierne sobre el mundo. La búsqueda de las Esencias conduce progresivamente al protagonista hacia el origen del conflicto y abre el camino al Equilibrium.",
+      "file": "la_busqueda_de_las_seis_esencias.json"
     },
     {
       "id": "la_verdad_tras_el_ataque",
       "title": "La verdad tras el ataque",
       "type": "historia_principal",
-      "description": "Con las seis Esencias reunidas, las piezas de la investigación empiezan a encajar. El protagonista descubre que el ataque contra Lux Solis y la búsqueda de los Titanes forman parte de un plan mucho mayor. Las investigaciones sobre los invasores y el misterioso poder que utilizan conducen hasta la verdadera amenaza que se esconde detrás de los acontecimientos.",
+      "description": "A medida que la Titan Taskforce avanza en su misión, las investigaciones empiezan a revelar que el ataque contra Lux Solis y el interés por los Titanes forman parte de un plan mucho mayor. El protagonista descubre nuevas pistas sobre los invasores, el misterioso elemento que utilizan y las verdaderas intenciones que se esconden detrás de los acontecimientos.",
       "file": "la_verdad_tras_el_ataque.json"
     },
     {
       "id": "el_equilibrium",
       "title": "El Equilibrium",
       "type": "historia_principal",
-      "description": "La aventura alcanza su conclusión cuando el protagonista se dirige hacia el Equilibrium. Las Esencias de los Titanes son necesarias para restaurar la armonía de Velua, pero antes deberá enfrentarse a quienes pretenden aprovecharse de ese poder. El conflicto final determina el futuro del mundo y pone fin a la misión de la Titan Taskforce.",
+      "description": "La aventura alcanza su conclusión cuando el protagonista llega al Equilibrium y se enfrenta a las consecuencias de la búsqueda de las seis Esencias. El destino de los Titanes y el equilibrio de Velua están en juego, y el protagonista debe detener a quienes pretenden aprovecharse de ese poder. El enfrentamiento final revela el desenlace de la conspiración y pone fin a la misión de la Titan Taskforce.",
       "file": "el_equilibrium.json"
     }
   ],
