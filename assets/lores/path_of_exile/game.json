@@ -1,3 +1,4 @@
+
 {
   "id": "path_of_exile",
   "title": "Path of Exile",
@@ -5,220 +6,290 @@
   "developer": "Grinding Gear Games",
   "genre": "Action RPG",
 
-  "description": "La historia de Wraeclast, una tierra maldita marcada por antiguas civilizaciones, guerras, corrupción y fuerzas sobrenaturales. El exiliado protagonista sobrevive en un mundo devastado mientras descubre los secretos de los Vaal, los Eternal, los templarios, los dioses y otras fuerzas que han dado forma a Wraeclast y Oriath.",
+  "description": "La historia de Wraeclast, una tierra devastada por antiguas civilizaciones, experimentos prohibidos, corrupción y fuerzas divinas. Sigue al Exiliado desde su llegada a la costa hasta los conflictos que amenazan el mundo y los misterios del Atlas, mientras descubre el pasado de los Vaal, el Imperio Eterno, los dioses y otras fuerzas que gobiernan esta oscura fantasía.",
 
   "cover": "cover.jpg",
 
   "chapters": [
     {
-      "id": "wraeclast",
-      "title": "Wraeclast",
-      "description": "Introducción al mundo de Path of Exile, su historia, sus regiones y la naturaleza de la tierra a la que son enviados los exiliados.",
-      "file": "wraeclast.json"
-    },
-    {
-      "id": "exiles_and_oriath",
-      "title": "Oriath y los exiliados",
-      "description": "La sociedad de Oriath, el poder de los templarios y las circunstancias que llevan a los protagonistas al exilio.",
-      "file": "exiles_and_oriath.json"
-    },
-    {
-      "id": "azmeri",
-      "title": "Los Azmeri",
-      "description": "Los orígenes de los pueblos de Wraeclast y la historia de los Azmeri, antepasados de importantes civilizaciones posteriores.",
-      "file": "azmeri.json"
-    },
-    {
-      "id": "vaal",
-      "title": "La civilización Vaal",
-      "description": "El auge de los Vaal, su sociedad, su magia y los experimentos que llevaron a su destrucción.",
-      "file": "vaal.json"
-    },
-    {
-      "id": "vaal_cataclysm",
-      "title": "La caída de los Vaal",
-      "description": "Los acontecimientos que provocaron la desaparición de la civilización Vaal y las consecuencias que dejaron en Wraeclast.",
-      "file": "vaal_cataclysm.json"
-    },
-    {
-      "id": "eternal_empire",
-      "title": "El Imperio Eterno",
-      "description": "El surgimiento del Imperio Eterno, su expansión por Wraeclast y la figura de sus principales gobernantes.",
-      "file": "eternal_empire.json"
-    },
-    {
-      "id": "eternal_empire_fall",
-      "title": "La caída del Imperio Eterno",
-      "description": "Las guerras, conspiraciones y acontecimientos sobrenaturales que llevaron al final del Imperio Eterno.",
-      "file": "eternal_empire_fall.json"
-    },
-    {
-      "id": "maraaketh",
-      "title": "Los Maraketh",
-      "description": "La historia del pueblo Maraketh, sus tradiciones, su sociedad y su relación con las antiguas civilizaciones de Wraeclast.",
-      "file": "maraaketh.json"
-    },
-    {
-      "id": "karui",
-      "title": "Los Karui",
-      "description": "La historia de los Karui, su cultura, sus dioses y su conflicto con el Imperio Eterno.",
-      "file": "karui.json"
-    },
-    {
-      "id": "templars",
-      "title": "Los Templarios",
-      "description": "La religión y el poder político de los Templarios de Oriath y su influencia sobre Wraeclast.",
-      "file": "templars.json"
-    },
-    {
-      "id": "dominus",
-      "title": "Dominus",
-      "description": "La historia de Dominus, su ascenso al poder y sus investigaciones sobre la corrupción y los antiguos secretos de Wraeclast.",
-      "file": "dominus.json"
-    },
-    {
       "id": "act_1",
-      "title": "Acto I — La Costa",
-      "description": "El comienzo del viaje del Exiliado por Wraeclast y los primeros descubrimientos sobre la corrupción de la región.",
-      "file": "act_1.json"
+      "title": "Prólogo y Acto I — La costa de Wraeclast",
+      "description": "El Exiliado llega a una costa mortal y debe sobrevivir entre náufragos, criaturas deformadas y los horrores que habitan Wraeclast. El comienzo de una historia sobre corrupción, supervivencia y secretos enterrados.",
+      "file": "act_1.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_2",
-      "title": "Acto II — El Bosque",
-      "description": "El viaje hacia el interior de Wraeclast y el descubrimiento de los secretos de la civilización Vaal.",
-      "file": "act_2.json"
+      "title": "Acto II — El bosque y las ruinas Vaal",
+      "description": "El viaje conduce al interior de Wraeclast, donde las disputas entre los habitantes del bosque y los secretos de la antigua civilización Vaal revelan que la corrupción tiene raíces mucho más profundas.",
+      "file": "act_2.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_3",
-      "title": "Acto III — Sarn",
-      "description": "La llegada a las ruinas de Sarn y el descubrimiento de los secretos del Imperio Eterno y de Dominus.",
-      "file": "act_3.json"
+      "title": "Acto III — Las ruinas de Sarn",
+      "description": "El Exiliado llega a Sarn, antigua capital del Imperio Eterno. Entre templos, prisiones y experimentos arcanos descubre las atrocidades del Imperio y la influencia de Dominus.",
+      "file": "act_3.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_4",
-      "title": "Acto IV — Highgate",
-      "description": "El viaje a Highgate y la investigación de los acontecimientos relacionados con el antiguo Imperio y la corrupción.",
-      "file": "act_4.json"
+      "title": "Acto IV — Highgate y la Bestia",
+      "description": "La búsqueda conduce a Highgate y al corazón de una fuerza sobrenatural relacionada con las gemas, la taumaturgia y el origen de la corrupción. El Exiliado se enfrenta a los responsables de terribles experimentos.",
+      "file": "act_4.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_5",
-      "title": "Acto V — Oriath",
-      "description": "El regreso a Oriath y el enfrentamiento que cambia el equilibrio de poder entre Wraeclast y el continente.",
-      "file": "act_5.json"
+      "title": "Acto V — El regreso a Oriath",
+      "description": "El Exiliado regresa a Oriath y descubre la verdadera magnitud de la opresión templaria. La rebelión, los secretos religiosos y el despertar de una amenaza divina conducen a un enfrentamiento que cambia el destino de la isla.",
+      "file": "act_5.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_6",
-      "title": "Acto VI — La Costa",
-      "description": "El regreso a Wraeclast después de los acontecimientos de Oriath y la continuación del conflicto contra las fuerzas corruptas.",
-      "file": "act_6.json"
+      "title": "Acto VI — La costa devastada",
+      "description": "Tras los acontecimientos de Oriath, el Exiliado vuelve a Wraeclast. La costa ha cambiado y nuevas amenazas, personajes y misiones permiten retomar conflictos anteriores mientras comienza una nueva etapa de la aventura.",
+      "file": "act_6.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_7",
-      "title": "Acto VII — Las ruinas de Sarn",
-      "description": "La continuación del viaje por Wraeclast y el descubrimiento de nuevas amenazas relacionadas con los antiguos poderes.",
-      "file": "act_7.json"
+      "title": "Acto VII — Los secretos de la selva",
+      "description": "El Exiliado atraviesa nuevas regiones y las ruinas de la civilización Vaal. Las investigaciones de Helena y los acontecimientos relacionados con Silk conducen a un enfrentamiento con fuerzas que amenazan el equilibrio del mundo.",
+      "file": "act_7.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_8",
-      "title": "Acto VIII — El crepúsculo de los dioses",
-      "description": "Los acontecimientos en Sarn y las regiones cercanas mientras nuevas fuerzas divinas comienzan a intervenir en Wraeclast.",
-      "file": "act_8.json"
+      "title": "Acto VIII — Sarn y los dioses gemelos",
+      "description": "El viaje regresa a Sarn, donde las fuerzas de Solaris y Lunaris se enfrentan. El Exiliado descubre las consecuencias de la lucha entre los dioses y debe detener una amenaza que se extiende por la ciudad y sus alrededores.",
+      "file": "act_8.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_9",
-      "title": "Acto IX — El desierto",
-      "description": "El viaje a las tierras de los Maraketh y los conflictos relacionados con las antiguas fuerzas que despiertan en la región.",
-      "file": "act_9.json"
+      "title": "Acto IX — El desierto y el legado de Shakari",
+      "description": "En las tierras desérticas, el Exiliado sigue el rastro de los Maraketh y se enfrenta a los efectos de la corrupción. La búsqueda de un remedio conduce hasta los secretos de la Bestia y el conflicto con Shakari.",
+      "file": "act_9.json",
+      "type": "historia_principal"
     },
     {
       "id": "act_10",
-      "title": "Acto X — El fin de Oriath",
-      "description": "El desenlace de la campaña original y la confrontación definitiva con las fuerzas que amenazan Wraeclast y Oriath.",
-      "file": "act_10.json"
+      "title": "Acto X — La caída de Oriath",
+      "description": "El Exiliado regresa a Oriath para afrontar las consecuencias de los actos anteriores. La lucha contra Kitava alcanza su desenlace y el mundo queda transformado por el enfrentamiento entre mortales y dioses.",
+      "file": "act_10.json",
+      "type": "historia_principal"
     },
     {
       "id": "epilogue",
-      "title": "Epílogo",
-      "description": "Las consecuencias de los acontecimientos de la campaña y el comienzo del contenido posterior a la historia principal.",
-      "file": "epilogue.json"
+      "title": "Epílogo — Después de Kitava",
+      "description": "Los supervivientes afrontan las consecuencias de la campaña. El Exiliado se adentra en una nueva etapa de su vida y entra en contacto con los mapas, los portales y los misterios que conducen al Atlas de los Mundos.",
+      "file": "epilogue.json",
+      "type": "historia_principal"
     },
     {
-      "id": "atlas",
+      "id": "atlas_of_worlds",
       "title": "El Atlas de los Mundos",
-      "description": "La expansión de la historia hacia el Atlas y los innumerables mundos que existen más allá de Wraeclast.",
-      "file": "atlas.json"
+      "description": "Comienza la exploración de realidades conectadas mediante el Atlas. El Exiliado colabora con quienes investigan sus portales y descubre que detrás de esos mundos existe una amenaza capaz de alterar la realidad.",
+      "file": "atlas_of_worlds.json",
+      "type": "historia_endgame"
     },
     {
       "id": "shaper",
-      "title": "El Shaper",
-      "description": "La historia del Shaper, su relación con el Atlas y los acontecimientos que lo convierten en una de las grandes amenazas del endgame.",
-      "file": "shaper.json"
+      "title": "El Shaper y los recuerdos del Atlas",
+      "description": "La investigación del Atlas revela la historia de una figura capaz de moldear sus mundos. A través de recuerdos fragmentados se descubre la relación entre el Shaper, su pasado y las fuerzas que amenazan con consumirlo todo.",
+      "file": "shaper.json",
+      "type": "historia_endgame"
     },
     {
       "id": "elder",
-      "title": "El Elder",
-      "description": "La aparición del Elder y la lucha por el control del Atlas frente a esta entidad ancestral.",
-      "file": "elder.json"
+      "title": "El Elder y la guerra por el Atlas",
+      "description": "Una entidad ancestral invade el Atlas y amenaza con devorar los mundos que contiene. La lucha contra el Elder y sus influencias cambia el rumbo de la exploración y pone en peligro a quienes intentan dominar el Atlas.",
+      "file": "elder.json",
+      "type": "historia_endgame"
     },
     {
       "id": "conquerors",
       "title": "Los Conquistadores del Atlas",
-      "description": "La historia de los Conquistadores, antiguos exiliados atrapados en el Atlas y convertidos en nuevas amenazas.",
-      "file": "conquerors.json"
+      "description": "Antiguos compañeros del Exiliado se pierden en el Atlas después de sus campañas. Su prolongada exposición a esos mundos los transforma y convierte la búsqueda de una solución en un conflicto contra quienes una vez fueron aliados.",
+      "file": "conquerors.json",
+      "type": "historia_endgame"
     },
     {
       "id": "sirus",
-      "title": "Sirus, Awakener of Worlds",
-      "description": "La historia de Sirus y de los Conquistadores y el conflicto que culmina en la batalla por el control del Atlas.",
-      "file": "sirus.json"
+      "title": "Sirus, el Despertador de Mundos",
+      "description": "El conflicto con los Conquistadores culmina en la historia de Sirus, un exiliado cuyo poder y obsesión amenazan tanto el Atlas como a quienes intentan contenerlo.",
+      "file": "sirus.json",
+      "type": "historia_endgame"
     },
     {
       "id": "maven",
-      "title": "The Maven",
-      "description": "La llegada de la Maven y sus juegos en el Atlas, enfrentando a poderosos combatientes por su propia diversión.",
-      "file": "maven.json"
+      "title": "La Maven y sus juegos",
+      "description": "Una entidad cósmica conocida como la Maven observa a los combatientes del Atlas y los obliga a enfrentarse para su entretenimiento. Su presencia introduce pruebas cada vez más peligrosas y revela la indiferencia de ciertas fuerzas cósmicas ante la vida mortal.",
+      "file": "maven.json",
+      "type": "historia_endgame"
     },
     {
-      "id": "archnemesis_and_endgame",
-      "title": "Las nuevas amenazas del Atlas",
-      "description": "La evolución del Atlas y la aparición de nuevas fuerzas, entidades y conflictos que amplían la historia del endgame.",
-      "file": "archnemesis_and_endgame.json"
-    },
-    {
-      "id": "atlas_of_worlds",
-      "title": "El nuevo Atlas",
-      "description": "La transformación del Atlas y los acontecimientos que redefinen su estructura y las amenazas que contiene.",
-      "file": "atlas_of_worlds.json"
-    },
-    {
-      "id": "the_eldritch_entities",
-      "title": "Las entidades Eldritch",
-      "description": "La aparición de poderosas entidades cósmicas y el conflicto entre sus dominios dentro del Atlas.",
-      "file": "the_eldritch_entities.json"
+      "id": "siege_of_the_atlas",
+      "title": "El asedio del Atlas",
+      "description": "Una nueva crisis obliga a reconsiderar el equilibrio de poder en el Atlas. El Exiliado se enfrenta a amenazas de escala cósmica y participa en una lucha cuyo resultado determina quién puede influir en los mundos conectados por el Atlas.",
+      "file": "siege_of_the_atlas.json",
+      "type": "historia_endgame"
     },
     {
       "id": "exarch_and_eater",
-      "title": "Exarch y Eater of Worlds",
-      "description": "La guerra entre las fuerzas del Searing Exarch y el Eater of Worlds y su lucha por dominar el Atlas.",
-      "file": "exarch_and_eater.json"
+      "title": "El Searing Exarch y el Eater of Worlds",
+      "description": "Dos entidades cósmicas compiten por extender sus dominios sobre el Atlas. El Exiliado debe investigar sus seguidores, resistir su influencia y enfrentarse a ambas fuerzas para impedir que sus conflictos destruyan los mundos que disputan.",
+      "file": "exarch_and_eater.json",
+      "type": "historia_endgame"
     },
     {
-      "id": "krieg_and_kalandra",
-      "title": "Los misterios de Wraeclast",
-      "description": "Nuevas revelaciones sobre la historia antigua de Wraeclast y los personajes vinculados a sus secretos.",
-      "file": "krieg_and_kalandra.json"
+      "id": "atlas_reorganization",
+      "title": "La transformación del Atlas",
+      "description": "Los cambios en el funcionamiento y la estructura del Atlas alteran las rutas de exploración, las relaciones con sus guardianes y las amenazas que el Exiliado debe afrontar. Este capítulo recoge los acontecimientos narrativos que forman parte de esa evolución, sin confundirlos con simples cambios de mecánicas.",
+      "file": "atlas_reorganization.json",
+      "type": "historia_endgame"
     },
     {
-      "id": "league_lore",
-      "title": "Las ligas y sus historias",
-      "description": "Historias y acontecimientos introducidos por las distintas ligas de Path of Exile que amplían el mundo, sus personajes y sus conflictos.",
-      "file": "league_lore.json"
+      "id": "secrets_of_the_atlas",
+      "title": "Secrets of the Atlas — Los secretos del Originator",
+      "description": "Eagon Caeserius investiga unas grietas de la realidad que aparecen en el Atlas y que parecen estar vinculadas a los recuerdos del Originator. Su investigación está relacionada con la búsqueda de su hermana Zana y abre una nueva trama en el epílogo.",
+      "file": "secrets_of_the_atlas.json",
+      "type": "historia_endgame"
     },
     {
       "id": "current_endgame",
-      "title": "El estado actual del mundo",
-      "description": "La situación actual de Wraeclast, Oriath y el Atlas, junto con las principales amenazas y misterios que permanecen abiertos.",
-      "file": "current_endgame.json"
+      "title": "El estado actual del Atlas",
+      "description": "Recopilación de la situación narrativa más reciente del endgame, las relaciones entre sus personajes y las amenazas que siguen activas. Debe actualizarse cuando una nueva expansión añada acontecimientos importantes, diferenciándolos de cambios de equilibrio o contenido sin historia.",
+      "file": "current_endgame.json",
+      "type": "historia_endgame"
+    },
+    {
+      "id": "league_lore",
+      "title": "Historias de las ligas",
+      "description": "Compendio de las ligas que incorporan personajes, acontecimientos, lugares o trasfondos narrativos relevantes. Cada historia se explica según su contexto y relación con el mundo, indicando si es una trama independiente, contenido que pasó al juego permanente o una historia vinculada al endgame.",
+      "file": "league_lore.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "wraeclast",
+      "title": "Wraeclast — Historia y naturaleza del mundo",
+      "description": "Panorama general de Wraeclast: sus regiones, su pasado, las consecuencias de las catástrofes y las fuerzas que han convertido el continente en un lugar marcado por la corrupción y lo sobrenatural.",
+      "file": "wraeclast.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "azmeri",
+      "title": "Los Azmeri",
+      "description": "Los orígenes del pueblo Azmeri, sus tradiciones y su relación con las antiguas civilizaciones. Se explica cómo una parte de este pueblo descendió de las montañas y fundó el Imperio Eterno, mientras otros grupos conservaron sus propias costumbres.",
+      "file": "azmeri.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "vaal",
+      "title": "La civilización Vaal",
+      "description": "La sociedad Vaal, su dominio de las gemas, sus rituales, su tecnología y el poder de sus gobernantes. Un relato sobre una civilización que buscó trascender los límites de la vida y dejó una huella profunda en Wraeclast.",
+      "file": "vaal.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "vaal_cataclysm",
+      "title": "La caída de los Vaal",
+      "description": "La ambición de la reina Atziri y los experimentos de Doryani conducen a una catástrofe que destruye la civilización Vaal. Se explican las consecuencias del cataclismo y la supervivencia de quienes encontraron refugio entre los Azmeri.",
+      "file": "vaal_cataclysm.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "eternal_empire",
+      "title": "El Imperio Eterno",
+      "description": "La fundación de Sarn por Tarcus Veruso, la expansión del Imperio Eterno y la consolidación de una sociedad que heredó territorios y ruinas de los Vaal. Se presentan sus gobernantes, su organización y su relación con la taumaturgia.",
+      "file": "eternal_empire.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "eternal_empire_fall",
+      "title": "La caída del Imperio Eterno",
+      "description": "Las luchas políticas, la taumaturgia y los acontecimientos que debilitaron el Imperio Eterno. El capítulo explica cómo sus errores y conflictos desembocaron en su caída y en la transformación de Wraeclast.",
+      "file": "eternal_empire_fall.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "karui",
+      "title": "Los Karui",
+      "description": "La cultura Karui, su estructura social, sus creencias y sus figuras históricas. Se explica su relación con el Imperio Eterno, las guerras que marcaron su historia y la importancia de sus tradiciones en los acontecimientos de la campaña.",
+      "file": "karui.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "maraaketh",
+      "title": "Los Maraketh",
+      "description": "La historia de los clanes Maraketh, sus costumbres, su organización y su relación con las tierras áridas. El capítulo profundiza en sus líderes y en los acontecimientos que explican su papel en la historia de Wraeclast.",
+      "file": "maraaketh.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "templars",
+      "title": "Los Templarios de Oriath",
+      "description": "El origen y la evolución de la institución templaria, su doctrina religiosa y su control político sobre Oriath. Se examina cómo la fe, la persecución y la ambición se entrelazan en el sistema que envía a los exiliados a Wraeclast.",
+      "file": "templars.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "dominus",
+      "title": "Dominus y la taumaturgia",
+      "description": "La trayectoria de Dominus, su ascenso al poder y sus investigaciones sobre las gemas y los secretos de Wraeclast. El capítulo amplía el contexto de los acontecimientos del Acto III sin repetir la narración de la campaña.",
+      "file": "dominus.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "the_beast_and_taumaturgy",
+      "title": "La Bestia y el origen de la taumaturgia",
+      "description": "La historia de Sin, Innocence y la creación de la Bestia, una fuerza vinculada al poder de la taumaturgia. Se explica cómo estos acontecimientos alteraron el equilibrio entre mortales y dioses y prepararon el terreno para las tragedias posteriores.",
+      "file": "the_beast_and_taumaturgy.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "gods_of_wraeclast",
+      "title": "Los dioses de Wraeclast",
+      "description": "Un recorrido por los dioses, sus orígenes, sus conflictos y su influencia sobre los pueblos de Wraeclast. Se distinguen las historias conocidas, las tradiciones religiosas y los misterios que el juego deja sin resolver.",
+      "file": "gods_of_wraeclast.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "virtue_gems",
+      "title": "Las gemas de virtud",
+      "description": "El origen conocido de las gemas de virtud, su relación con la civilización Vaal y su influencia en la taumaturgia. Se exploran sus capacidades, sus riesgos y la forma en que diferentes pueblos las utilizaron.",
+      "file": "virtue_gems.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "characters_and_historical_figures",
+      "title": "Personajes históricos de Wraeclast",
+      "description": "Relatos complementarios sobre figuras relevantes del pasado, sus motivaciones, sus alianzas y sus consecuencias para el mundo. Cada biografía debe respetar la información establecida en el juego y distinguir los hechos de las interpretaciones.",
+      "file": "characters_and_historical_figures.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "factions_and_cultures",
+      "title": "Pueblos, facciones y culturas",
+      "description": "Una guía de las sociedades y facciones que aparecen a lo largo de la historia: sus orígenes, creencias, objetivos y conflictos. Sirve para consultar el trasfondo sin interrumpir la lectura cronológica de la campaña.",
+      "file": "factions_and_cultures.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "atlas_entities",
+      "title": "Entidades cósmicas y fuerzas del Atlas",
+      "description": "Recopilación de las entidades que intervienen en el Atlas, sus dominios, objetivos y relaciones. Complementa los capítulos del endgame y diferencia las explicaciones confirmadas de los misterios todavía abiertos.",
+      "file": "atlas_entities.json",
+      "type": "lore_complementario"
+    },
+    {
+      "id": "optional_quests_lore",
+      "title": "Misiones secundarias y relatos ocultos",
+      "description": "Historias que se descubren mediante misiones opcionales, diálogos, diarios, objetos y zonas que no siempre son necesarias para completar la campaña. Se incorporan solo cuando aportan contexto narrativo relevante.",
+      "file": "optional_quests_lore.json",
+      "type": "lore_complementario"
     }
   ],
 
