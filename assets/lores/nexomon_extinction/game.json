@@ -4,70 +4,66 @@
   "shortTitle": "NE",
   "developer": "VEWO Interactive",
   "genre": "RPG / Captura de monstruos",
-
-  "description": "La historia de un joven Tamer que abandona el orfanato y se une a la Guild para enfrentarse a los Nexomon salvajes y a los poderosos Tyrants que amenazan el equilibrio del mundo. Su viaje le lleva a descubrir la historia de Omnicron, la guerra entre humanos y Nexomon y los acontecimientos que pueden provocar una nueva extinción.",
-
+  "description": "La historia de un joven Tamer que abandona el orfanato y se une a la Guild para enfrentarse a los Nexomon salvajes y a los poderosos Tyrants que amenazan el equilibrio del mundo. Su viaje revela la historia de Omnicron, el origen de los conflictos entre humanos y Nexomon y una conspiración que pretende imponer un nuevo orden. Cuando Amelie pone en marcha su plan con Vados, el protagonista deberá descubrir su propio origen y decidir el futuro de ambas especies.",
   "cover": "cover.jpg",
-
   "chapters": [
     {
       "id": "el_orfanato_y_la_guild",
       "title": "El orfanato y la Guild",
       "type": "historia_principal",
-      "description": "El protagonista comienza su aventura en el orfanato y pronto se ve obligado a abandonar su vida cotidiana. Su primer contacto con los Nexomon y con la Guild lo introduce en un mundo amenazado por criaturas cada vez más poderosas.",
+      "description": "El protagonista comienza su aventura en el orfanato, donde vive junto a otros jóvenes Tamer. Un ataque y una serie de acontecimientos inesperados lo llevan a abandonar su hogar y viajar hasta Parum para unirse a la Guild. Allí comienza su formación, conoce a sus futuros compañeros y descubre que el mundo está amenazado por poderosos Nexomon conocidos como Tyrants.",
       "file": "el_orfanato_y_la_guild.json"
     },
     {
-      "id": "los_tyrants",
-      "title": "Los Tyrants",
+      "id": "los_tyrants_y_la_herencia_de_omnicron",
+      "title": "Los Tyrants y la herencia de Omnicron",
       "type": "historia_principal",
-      "description": "El protagonista descubre que algunos Nexomon poseen un poder extraordinario y son conocidos como Tyrants. La Guild investiga estas criaturas mientras el protagonista recorre distintas regiones y comienza a comprender la magnitud de la amenaza.",
-      "file": "los_tyrants.json"
+      "description": "Las misiones de la Guild llevan al protagonista a investigar a los Tyrants y la guerra que mantienen por convertirse en el nuevo Rey de los Monstruos tras la caída de Omnicron. La investigación también descubre el legado del antiguo soberano y la existencia de personas que desean devolverlo a la vida. Los acontecimientos relacionados con el culto de Omnicron revelan que el pasado sigue condicionando el presente y que el protagonista está vinculado a secretos que todavía desconoce.",
+      "file": "los_tyrants_y_la_herencia_de_omnicron.json"
     },
     {
-      "id": "la_guerra_de_omnicron",
-      "title": "La guerra de Omnicron",
+      "id": "la_conspiracion_de_amelie",
+      "title": "La conspiración de Amelie",
       "type": "historia_principal",
-      "description": "Las investigaciones revelan la historia de Omnicron, el antiguo King of Monsters, y la guerra que enfrentó a los humanos contra los Nexomon. El protagonista descubre que los acontecimientos del pasado siguen teniendo consecuencias en el presente.",
-      "file": "la_guerra_de_omnicron.json"
+      "description": "Mientras el protagonista continúa sus misiones, Amelie impulsa un proyecto que pretende cambiar la relación entre los humanos y los Nexomon. Sus investigaciones conducen al desarrollo de Vados, una criatura de poder extraordinario que considera capaz de acabar con la necesidad de los Tamers. La Guild intenta comprender las intenciones de Amelie mientras los conflictos con los Tyrants y las decisiones de sus dirigentes agravan la crisis.",
+      "file": "la_conspiracion_de_amelie.json"
     },
     {
-      "id": "los_hijos_de_omnicron",
-      "title": "Los hijos de Omnicron",
+      "id": "el_secreto_del_protagonista",
+      "title": "El secreto del protagonista",
       "type": "historia_principal",
-      "description": "La existencia de los descendientes de Omnicron adquiere una importancia cada vez mayor. El protagonista descubre cómo los antiguos linajes y los poderes de los Tyrants están relacionados con los acontecimientos que amenazan al mundo.",
-      "file": "los_hijos_de_omnicron.json"
+      "description": "La huida de Cadium y el encuentro con personas vinculadas al pasado del protagonista conducen a una revelación fundamental: su madre era Deena, una de los antiguos Tyrants primordiales y descendiente de Omnicron. El protagonista posee un poder heredado que lo convierte en una pieza esencial para el futuro de humanos y Nexomon. Mientras descubre la verdad sobre su origen, Vados continúa creciendo y Amelie se prepara para llevar adelante su proyecto.",
+      "file": "el_secreto_del_protagonista.json"
     },
     {
-      "id": "la_amenaza_de_la_extincion",
-      "title": "La amenaza de la extinción",
+      "id": "la_guerra_por_el_futuro",
+      "title": "La guerra por el futuro",
       "type": "historia_principal",
-      "description": "Los conflictos entre humanos, Nexomon y Tyrants alcanzan un punto crítico. El protagonista debe recorrer las regiones de Nexomon Extinction mientras descubre quién está detrás de la nueva crisis y qué pretende conseguir.",
-      "file": "la_amenaza_de_la_extincion.json"
+      "description": "Vados comienza a eliminar a los demás Tyrants, poniendo en peligro el equilibrio del mundo. El protagonista recorre nuevas regiones para advertir a los afectados y reunir aliados entre Tamers, renegados y antiguos adversarios. Con la ayuda de quienes desean evitar la extinción de los Tyrants, descubre cómo utilizar el poder heredado de Deena para devolver la vida a los caídos y preparar una resistencia capaz de enfrentarse a Vados.",
+      "file": "la_guerra_por_el_futuro.json"
     },
     {
       "id": "el_final_de_la_guerra",
       "title": "El final de la guerra",
       "type": "historia_principal",
-      "description": "La investigación conduce al protagonista hacia el enfrentamiento definitivo. Las revelaciones sobre Omnicron, los Tyrants y los personajes que han acompañado al protagonista convergen en una batalla que decidirá el futuro del mundo.",
+      "description": "Con sus aliados reunidos, el protagonista pone en marcha el plan para detener a Vados y enfrentarse a Amelie. La batalla final decide si los Nexomon serán exterminados o si humanos y monstruos podrán encontrar una forma de coexistir. Tras derrotar a Vados, el protagonista tiene la oportunidad de devolverle la vida y abrir la puerta a una paz distinta de las guerras que han marcado la historia del mundo.",
       "file": "el_final_de_la_guerra.json"
     },
     {
       "id": "postgame",
       "title": "Después de la historia",
       "type": "historia_secundaria",
-      "description": "Tras completar la historia principal, el mundo continúa ofreciendo nuevas investigaciones y acontecimientos. El protagonista puede descubrir secretos relacionados con los Dragones, los Tyrants, los antiguos personajes y otros Nexomon legendarios.",
+      "description": "Tras el desenlace de la historia principal, el protagonista puede explorar nuevas misiones relacionadas con los antiguos Tyrants, los descendientes de Omnicron y los nueve Dragones. Estas aventuras amplían la historia del mundo, permiten reencontrarse con personajes conocidos y descubrir secretos que quedaron fuera del conflicto contra Vados. También ofrecen nuevos enfrentamientos y oportunidades para completar la colección de Nexomon.",
       "file": "postgame.json"
     },
     {
       "id": "abyssal_tyrants",
       "title": "Abyssal Tyrants",
       "type": "historia_secundaria",
-      "description": "Una nueva línea de misiones postgame lleva al protagonista hasta una región desconocida para investigar el regreso de los Abyssal Tyrants. La aventura amplía la historia después del final del juego y presenta nuevos personajes, acontecimientos y secretos.",
+      "description": "Una nueva cadena de misiones se activa después de completar la historia principal y cumplir ciertos requisitos adicionales. El regreso de los Abyssal Tyrants lleva al protagonista a una región desconocida, donde deberá investigar nuevas amenazas y superar desafíos mucho más exigentes. Esta aventura amplía el mundo de Nexomon: Extinction con nuevos acontecimientos, personajes, criaturas y secretos.",
       "file": "abyssal_tyrants.json"
     }
   ],
-
   "characters": [],
   "locations": [],
   "factions": [],
