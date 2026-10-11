@@ -4,202 +4,348 @@
   "shortTitle": "ESO",
   "developer": "ZeniMax Online Studios",
   "genre": "MMORPG",
-
-  "description": "La historia de Tamriel durante la Segunda Era, aproximadamente mil años antes de los acontecimientos de The Elder Scrolls V: Skyrim. El jugador encarna al Vestige, un héroe atrapado en los grandes conflictos de Tamriel mientras las tres alianzas luchan por el control del continente y diversas fuerzas daédricas, antiguas civilizaciones y amenazas sobrenaturales ponen en peligro el mundo.",
-
+  "description": "La historia de Tamriel durante la Segunda Era, unos mil años antes de The Elder Scrolls V: Skyrim. El Vestigio se ve envuelto en la Guerra de las Alianzas, la amenaza de Molag Bal y numerosas aventuras relacionadas con los dioses, las culturas de Tamriel, las civilizaciones antiguas y los Príncipes Daédricos.",
   "cover": "cover.jpg",
-
   "chapters": [
     {
-      "id": "tamriel_second_era",
-      "title": "Tamriel en la Segunda Era",
-      "description": "Introducción a Tamriel, la Segunda Era y la situación política y religiosa que precede a los acontecimientos de ESO.",
-      "file": "tamriel_second_era.json"
+      "id": "soul_shriven_in_coldharbour",
+      "title": "Alma atrapada en Coldharbour",
+      "type": "historia_principal",
+      "description": "El protagonista despierta prisionero en Coldharbour, el reino de Molag Bal, después de que le arrebaten el alma. Con la ayuda del Profeta, deberá escapar de la prisión y comenzar su lucha contra el Planemeld.",
+      "file": "soul_shriven_in_coldharbour.json"
     },
     {
-      "id": "three_alliances",
-      "title": "Las Tres Alianzas",
-      "description": "La Guerra de las Alianzas y la lucha entre el Pacto de Ebonheart, el Dominio de Aldmeri y la Alianza de Daggerfall por el control del Trono Imperial.",
-      "file": "three_alliances.json"
+      "id": "main_quest",
+      "title": "La historia principal: el Planemeld",
+      "type": "historia_principal",
+      "description": "El Vestigio conoce al Profeta y a los Cinco Compañeros, descubre los planes de Molag Bal para fusionar Nirn con Coldharbour y emprende una misión que culminará en el enfrentamiento contra el Príncipe Daédrico.",
+      "file": "main_quest.json"
     },
     {
-      "id": "vestige",
-      "title": "El Vestige",
-      "description": "La historia del protagonista, su muerte a manos de Molag Bal, su regreso a la vida y el descubrimiento de su naturaleza especial.",
-      "file": "vestige.json"
+      "id": "aldmeri_khenarthis_roost",
+      "title": "Dominio de Aldmer: Khenarthi's Roost",
+      "type": "zona_alianza",
+      "description": "El Dominio de Aldmer comienza su lucha por consolidar su poder. En esta isla, el Vestigio ayuda a los khajiitas y descubre una conspiración que amenaza la seguridad de la región.",
+      "file": "aldmeri_khenarthis_roost.json"
     },
     {
-      "id": "soul_shriven",
-      "title": "Soul Shriven",
-      "description": "El encarcelamiento del protagonista en Coldharbour y los acontecimientos que desencadenan su búsqueda de la forma de recuperar su alma.",
-      "file": "soul_shriven.json"
+      "id": "aldmeri_auridon",
+      "title": "Dominio de Aldmer: Auridon",
+      "type": "zona_alianza",
+      "description": "Las tensiones políticas y las amenazas sobrenaturales ponen en peligro Auridon. El Vestigio ayuda a las fuerzas del Dominio mientras descubre conspiraciones que afectan a los Altos Elfos.",
+      "file": "aldmeri_auridon.json"
     },
     {
-      "id": "prophet",
-      "title": "El Profeta",
-      "description": "El encuentro con el Profeta y la formación de la alianza que permitirá al Vestige enfrentarse a Molag Bal.",
-      "file": "prophet.json"
+      "id": "aldmeri_grahtwood",
+      "title": "Dominio de Aldmer: Grahtwood",
+      "type": "zona_alianza",
+      "description": "En el corazón del territorio bosmer, el Vestigio ayuda a proteger Elden Root y a los líderes del Dominio frente a amenazas políticas, religiosas y sobrenaturales.",
+      "file": "aldmeri_grahtwood.json"
     },
     {
-      "id": "planemeld",
-      "title": "La Fusión de los Mundos",
-      "description": "El Planemeld, el intento de Molag Bal de fusionar Nirn con Coldharbour y las consecuencias que amenazan a todo Tamriel.",
-      "file": "planemeld.json"
+      "id": "aldmeri_greenshade",
+      "title": "Dominio de Aldmer: Greenshade",
+      "type": "zona_alianza",
+      "description": "El Vestigio se enfrenta a una amenaza que afecta a los bosmer y a su relación con la naturaleza, mientras las intrigas y las fuerzas hostiles ponen en peligro la estabilidad del Dominio.",
+      "file": "aldmeri_greenshade.json"
     },
     {
-      "id": "main_story",
-      "title": "La historia principal",
-      "description": "La aventura del Vestige a través de Tamriel, sus aliados y el conflicto que culmina en la lucha contra Molag Bal.",
-      "file": "main_story.json"
+      "id": "aldmeri_malabal_tor",
+      "title": "Dominio de Aldmer: Malabal Tor",
+      "type": "zona_alianza",
+      "description": "Las disputas entre los bosmer, los Altos Elfos y las fuerzas que amenazan la región obligan al Vestigio a intervenir para proteger los intereses del Dominio.",
+      "file": "aldmeri_malabal_tor.json"
     },
     {
-      "id": "guilds",
-      "title": "Los gremios",
-      "description": "Las historias de los principales gremios de Tamriel, incluyendo los Fighters Guild, Mages Guild y otros grupos que amplían la historia del juego base.",
-      "file": "guilds.json"
+      "id": "aldmeri_reapers_march",
+      "title": "Dominio de Aldmer: Reaper's March",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda a los khajiitas de Reaper's March a defender su territorio y a resolver una crisis que amenaza tanto a la población como a la unidad del Dominio.",
+      "file": "aldmeri_reapers_march.json"
+    },
+    {
+      "id": "daggerfall_stros_mkai",
+      "title": "Alianza de Daggerfall: Stros M'Kai",
+      "type": "zona_alianza",
+      "description": "El Vestigio llega a Stros M'Kai y se ve envuelto en los conflictos que afectan a los corsarios, los guardias y los habitantes de esta isla vinculada al reino de los guardiamarinas.",
+      "file": "daggerfall_stros_mkai.json"
+    },
+    {
+      "id": "daggerfall_betnikh",
+      "title": "Alianza de Daggerfall: Betnikh",
+      "type": "zona_alianza",
+      "description": "En Betnikh, el Vestigio ayuda a los orcos y descubre conflictos relacionados con las antiguas ruinas, el legado de los habitantes de la isla y las relaciones entre sus pueblos.",
+      "file": "daggerfall_betnikh.json"
+    },
+    {
+      "id": "daggerfall_glenumbra",
+      "title": "Alianza de Daggerfall: Glenumbra",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda al reino de Daggerfall frente a amenazas sobrenaturales, conspiraciones y conflictos que afectan a los bretones y a la estabilidad política de Glenumbra.",
+      "file": "daggerfall_glenumbra.json"
+    },
+    {
+      "id": "daggerfall_stormhaven",
+      "title": "Alianza de Daggerfall: Stormhaven",
+      "type": "zona_alianza",
+      "description": "Las luchas políticas y las amenazas que afectan al reino de Wayrest obligan al Vestigio a intervenir para proteger la Alianza de Daggerfall.",
+      "file": "daggerfall_stormhaven.json"
+    },
+    {
+      "id": "daggerfall_rivenspire",
+      "title": "Alianza de Daggerfall: Rivenspire",
+      "type": "zona_alianza",
+      "description": "El Vestigio se adentra en una región marcada por conflictos dinásticos, amenazas sobrenaturales y luchas por el poder que afectan al futuro de Rivenspire.",
+      "file": "daggerfall_rivenspire.json"
+    },
+    {
+      "id": "daggerfall_alikr_desert",
+      "title": "Alianza de Daggerfall: Alik'r Desert",
+      "type": "zona_alianza",
+      "description": "En el desierto de Alik'r, el Vestigio ayuda a los guardiamarinas frente a conspiraciones y amenazas que ponen en peligro sus tradiciones, sus asentamientos y su posición dentro de la Alianza.",
+      "file": "daggerfall_alikr_desert.json"
+    },
+    {
+      "id": "daggerfall_bangkorai",
+      "title": "Alianza de Daggerfall: Bangkorai",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda a defender Bangkorai frente a una amenaza que pone en peligro la región y culmina los conflictos relacionados con la Alianza de Daggerfall.",
+      "file": "daggerfall_bangkorai.json"
+    },
+    {
+      "id": "ebonheart_bleakrock_isle",
+      "title": "Pacto de Corazón de Ébano: Bleakrock Isle",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda a los habitantes de Bleakrock Isle cuando la isla sufre una invasión que amenaza la vida de sus colonos y la seguridad del Pacto.",
+      "file": "ebonheart_bleakrock_isle.json"
+    },
+    {
+      "id": "ebonheart_bal_foyen",
+      "title": "Pacto de Corazón de Ébano: Bal Foyen",
+      "type": "zona_alianza",
+      "description": "Tras los acontecimientos de Bleakrock, el Vestigio ayuda a defender Bal Foyen y a proteger a los refugiados y las fuerzas del Pacto frente a una nueva amenaza.",
+      "file": "ebonheart_bal_foyen.json"
+    },
+    {
+      "id": "ebonheart_stonefalls",
+      "title": "Pacto de Corazón de Ébano: Stonefalls",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda a los dunmer de Stonefalls a enfrentarse a invasiones, conflictos religiosos y amenazas que afectan a la seguridad del territorio.",
+      "file": "ebonheart_stonefalls.json"
+    },
+    {
+      "id": "ebonheart_deshaan",
+      "title": "Pacto de Corazón de Ébano: Deshaan",
+      "type": "zona_alianza",
+      "description": "En las tierras que rodean Mournhold, el Vestigio investiga amenazas contra los dunmer y sus instituciones religiosas y políticas, mientras ayuda a proteger la región.",
+      "file": "ebonheart_deshaan.json"
+    },
+    {
+      "id": "ebonheart_shadowfen",
+      "title": "Pacto de Corazón de Ébano: Shadowfen",
+      "type": "zona_alianza",
+      "description": "El Vestigio se adentra en los pantanos argonianos y ayuda a sus habitantes frente a amenazas que afectan a sus comunidades, sus tradiciones y la estabilidad del Pacto.",
+      "file": "ebonheart_shadowfen.json"
+    },
+    {
+      "id": "ebonheart_eastmarch",
+      "title": "Pacto de Corazón de Ébano: Eastmarch",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda a los nórdicos de Eastmarch en medio de conflictos políticos, amenazas sobrenaturales y tensiones que ponen en peligro la unidad del Pacto.",
+      "file": "ebonheart_eastmarch.json"
+    },
+    {
+      "id": "ebonheart_the_rift",
+      "title": "Pacto de Corazón de Ébano: The Rift",
+      "type": "zona_alianza",
+      "description": "La historia del Pacto continúa en The Rift, donde el Vestigio ayuda a los nórdicos a resolver conflictos que amenazan la región y culmina los acontecimientos de la campaña de la alianza.",
+      "file": "ebonheart_the_rift.json"
+    },
+    {
+      "id": "fighters_guild",
+      "title": "Gremio de Luchadores",
+      "type": "gremio",
+      "description": "El Vestigio se une al Gremio de Luchadores y combate una amenaza relacionada con los daedra, las fuerzas de Molag Bal y los intentos de extender su influencia por Tamriel.",
+      "file": "fighters_guild.json"
+    },
+    {
+      "id": "mages_guild",
+      "title": "Gremio de Magos",
+      "type": "gremio",
+      "description": "El Vestigio se une al Gremio de Magos y sigue las investigaciones de Vanus Galerion, enfrentándose a una conspiración que amenaza el conocimiento mágico y la seguridad de Tamriel.",
+      "file": "mages_guild.json"
+    },
+    {
+      "id": "coldharbour",
+      "title": "Coldharbour: el reino de Molag Bal",
+      "type": "historia_principal",
+      "description": "Las fuerzas de las tres alianzas preparan su ofensiva contra Molag Bal. El Vestigio viaja a Coldharbour para liberar a los prisioneros, debilitar el dominio del Príncipe Daédrico y culminar la campaña del Planemeld.",
+      "file": "coldharbour.json"
+    },
+    {
+      "id": "craglorn",
+      "title": "Craglorn",
+      "type": "zona_dlc",
+      "description": "El Vestigio investiga una crisis relacionada con las estrellas, los Serpent y los misterios de los guerreros celestiales, en una región marcada por antiguas profecías y peligros arcanos.",
+      "file": "craglorn.json"
     },
     {
       "id": "cadwells_almanac",
       "title": "El Almanaque de Cadwell",
-      "description": "Las aventuras de Cadwell y el recorrido por las tierras de las otras alianzas después de los acontecimientos principales.",
+      "type": "historia_secundaria",
+      "description": "Cadwell invita al Vestigio a recorrer las tierras de las otras dos alianzas y descubrir sus acontecimientos desde una perspectiva diferente, permitiendo conocer las tres campañas regionales.",
       "file": "cadwells_almanac.json"
     },
     {
       "id": "imperial_city",
-      "title": "La Ciudad Imperial",
-      "description": "La lucha por la Ciudad Imperial, ocupada por fuerzas de Molag Bal y convertida en uno de los principales escenarios de la guerra.",
+      "title": "Ciudad Imperial",
+      "type": "zona_dlc",
+      "description": "La Ciudad Imperial permanece bajo el control de las fuerzas de Molag Bal. Los combatientes de las tres alianzas se enfrentan por sus distritos mientras investigan los planes del Príncipe Daédrico y la corrupción que asola la capital.",
       "file": "imperial_city.json"
     },
     {
       "id": "orsinium",
       "title": "Orsinium",
-      "description": "La reconstrucción de Orsinium y los conflictos políticos y culturales de los Orcos en Wrothgar.",
+      "type": "zona_dlc",
+      "description": "El Vestigio viaja a Wrothgar para ayudar al rey Kurog en su intento de reconstruir Orsinium y unir a los orcos, mientras las rivalidades políticas, las tradiciones y las amenazas externas ponen en peligro el proyecto.",
       "file": "orsinium.json"
     },
     {
-      "id": "dark_brotherhood",
-      "title": "La Hermandad Oscura",
-      "description": "La historia del Vestige junto a la Hermandad Oscura y sus asesinatos, rituales y conflictos internos.",
-      "file": "dark_brotherhood.json"
-    },
-    {
       "id": "thieves_guild",
-      "title": "El Gremio de Ladrones",
-      "description": "La historia del Gremio de Ladrones en Abah's Landing y su enfrentamiento con fuerzas criminales y sobrenaturales.",
+      "title": "Gremio de Ladrones",
+      "type": "gremio",
+      "description": "El Vestigio llega a Hew's Bane y se une al Gremio de Ladrones, ayudando a recuperar su influencia en Abah's Landing mientras se enfrenta a rivales criminales y descubre secretos relacionados con la región.",
       "file": "thieves_guild.json"
     },
     {
+      "id": "dark_brotherhood",
+      "title": "Hermandad Oscura",
+      "type": "gremio",
+      "description": "En la Costa de Oro, el Vestigio se incorpora a la Hermandad Oscura y participa en contratos de asesinato, intrigas internas y conflictos relacionados con la supervivencia de la organización.",
+      "file": "dark_brotherhood.json"
+    },
+    {
       "id": "morrowind",
-      "title": "Morrowind",
-      "description": "El regreso a Vvardenfell y el conflicto relacionado con Vivec, los Ashlanders y una nueva amenaza que pone en peligro la isla.",
+      "title": "Morrowind: Vvardenfell",
+      "type": "capitulo",
+      "description": "El Vestigio viaja a Vvardenfell y ayuda a Vivec a recuperar su poder mientras una amenaza sobrenatural pone en peligro la isla y el futuro de los dunmer.",
       "file": "morrowind.json"
     },
     {
       "id": "clockwork_city",
       "title": "Clockwork City",
-      "description": "El viaje a la Ciudad Mecánica de Sotha Sil y la lucha contra una amenaza que pretende alterar el equilibrio de la creación.",
+      "type": "zona_dlc",
+      "description": "El Vestigio explora la Ciudad Mecánica de Sotha Sil y se ve envuelto en una lucha por proteger los secretos de su creador frente a una amenaza que pretende alterar el equilibrio de la realidad.",
       "file": "clockwork_city.json"
     },
     {
       "id": "summerset",
       "title": "Summerset",
-      "description": "La llegada a las islas de Summerset y el conflicto con los Psijic, los Maormer y las fuerzas relacionadas con los Daedra.",
+      "type": "capitulo",
+      "description": "El Vestigio llega a las islas de Summerset, investiga una amenaza que afecta a los Altos Elfos y se enfrenta a una conspiración daédrica relacionada con la Orden Psijic y el equilibrio entre los mundos.",
       "file": "summerset.json"
     },
     {
       "id": "murkmire",
       "title": "Murkmire",
-      "description": "La exploración de las tierras de los Argonianos y los secretos relacionados con la cultura y la historia de los Xit-Xaht.",
+      "type": "zona_dlc",
+      "description": "El Vestigio explora los pantanos de Murkmire y ayuda a los argonianos a recuperar un antiguo objeto de gran importancia cultural, descubriendo secretos sobre su civilización y su pasado.",
       "file": "murkmire.json"
     },
     {
       "id": "elsweyr",
-      "title": "Elsweyr",
-      "description": "El regreso de los dragones a Elsweyr, la crisis de los Khajiit y el conflicto contra las fuerzas que pretenden controlar a los dragones.",
+      "title": "Elsweyr: el regreso de los dragones",
+      "type": "capitulo",
+      "description": "Los dragones regresan a Elsweyr y amenazan a los khajiitas. El Vestigio se une a sus aliados para descubrir el origen de la crisis y combatir a las fuerzas que pretenden controlar a estas criaturas.",
       "file": "elsweyr.json"
     },
     {
       "id": "dragonhold",
-      "title": "Dragonhold",
-      "description": "La continuación de la historia de los dragones en el sur de Elsweyr y el enfrentamiento definitivo con las fuerzas responsables de su regreso.",
+      "title": "Dragonhold: el sur de Elsweyr",
+      "type": "zona_dlc",
+      "description": "La lucha contra los dragones continúa en el sur de Elsweyr. El Vestigio colabora con la resistencia khajiita y sus aliados para enfrentarse a la amenaza y resolver los acontecimientos de la saga de los dragones.",
       "file": "dragonhold.json"
     },
     {
-      "id": "dark_heart_of_skyrim",
-      "title": "El Corazón Oscuro de Skyrim",
-      "description": "El regreso a Skyrim y la aparición de una antigua amenaza vampírica relacionada con el ejército de los Grey Host.",
-      "file": "dark_heart_of_skyrim.json"
-    },
-    {
       "id": "greymoor",
-      "title": "Greymoor",
-      "description": "La defensa de Skyrim occidental frente a los vampiros y la amenaza del Caballero Negro y el ejército de los Grey Host.",
+      "title": "Greymoor: Skyrim occidental",
+      "type": "capitulo",
+      "description": "El Vestigio viaja a Skyrim occidental para investigar una amenaza sobrenatural vinculada a los vampiros, el Señor de los Vampiros y el misterioso ejército conocido como Grey Host.",
       "file": "greymoor.json"
     },
     {
       "id": "markarth",
-      "title": "Markarth",
-      "description": "La continuación de la guerra contra los Grey Host en The Reach y la resolución del conflicto que comenzó en Skyrim.",
+      "title": "Markarth: el Corazón Oscuro de Skyrim",
+      "type": "zona_dlc",
+      "description": "La lucha contra el Grey Host continúa en The Reach. El Vestigio descubre secretos de los habitantes de la región y se enfrenta a las consecuencias de una amenaza que afecta a Skyrim occidental.",
       "file": "markarth.json"
     },
     {
       "id": "blackwood",
       "title": "Blackwood",
-      "description": "La aparición de Mehrunes Dagon y la conspiración de los cultistas que pretende abrir las puertas de Oblivion y alterar Tamriel.",
+      "type": "capitulo",
+      "description": "El Vestigio investiga una conspiración relacionada con Mehrunes Dagon, los cultistas del Amanecer y los portales a Oblivion, mientras una nueva amenaza daédrica se extiende por Tamriel.",
       "file": "blackwood.json"
     },
     {
       "id": "deadlands",
       "title": "Deadlands",
-      "description": "El enfrentamiento final contra Mehrunes Dagon en su propio reino de Oblivion y el desenlace de la historia iniciada en Blackwood.",
+      "type": "zona_dlc",
+      "description": "La historia de Blackwood continúa en los Páramos Muertos, el reino de Mehrunes Dagon. El Vestigio y sus aliados intentan detener los planes del Príncipe Daédrico y evitar una catástrofe que amenaza Tamriel.",
       "file": "deadlands.json"
     },
     {
       "id": "high_isle",
       "title": "High Isle",
-      "description": "El viaje al archipiélago de las Systres, donde las negociaciones de paz entre las facciones se ven amenazadas por la Ascendant Order.",
+      "type": "capitulo",
+      "description": "El Vestigio viaja al archipiélago de las Systres, donde los intentos de negociar la paz entre las tres alianzas se ven amenazados por la Orden Ascendente y sus planes para alterar el equilibrio político de Tamriel.",
       "file": "high_isle.json"
     },
     {
       "id": "firesong",
-      "title": "Firesong",
-      "description": "La continuación de los acontecimientos de High Isle y el conflicto en la isla de Galen.",
+      "title": "Firesong: la isla de Galen",
+      "type": "zona_dlc",
+      "description": "La historia de las Systres continúa en Galen, donde el Vestigio se enfrenta a las consecuencias de los acontecimientos de High Isle y a nuevas amenazas relacionadas con la Orden Ascendente.",
       "file": "firesong.json"
     },
     {
-      "id": "shadow_over_morrowind",
-      "title": "Sombras sobre Morrowind",
-      "description": "El comienzo de una nueva saga relacionada con Apocrypha, Hermaeus Mora y secretos capaces de poner en peligro la realidad.",
-      "file": "shadow_over_morrowind.json"
-    },
-    {
       "id": "necrom",
-      "title": "Necrom",
-      "description": "El regreso a la península Telvanni y la ciudad de Necrom, donde el Vestige se ve envuelto en los secretos de Hermaeus Mora y una amenaza que afecta al propio reino de Apocrypha.",
+      "title": "Necrom: la península Telvanni",
+      "type": "capitulo",
+      "description": "El Vestigio viaja a la península Telvanni y a Apocrypha, el reino de Hermaeus Mora, donde descubre una amenaza vinculada a secretos que podrían poner en peligro el equilibrio del mundo.",
       "file": "necrom.json"
     },
     {
       "id": "scions_of_ithelia",
       "title": "Scions of Ithelia",
-      "description": "La continuación de los acontecimientos relacionados con Hermaeus Mora y la aparición de fuerzas vinculadas a un misterioso Príncipe Daédrico.",
+      "type": "zona_dlc",
+      "description": "El Vestigio se enfrenta a las consecuencias de los acontecimientos de Necrom y descubre nuevos conflictos relacionados con los seguidores de Ithelia y los secretos de los Príncipes Daédricos.",
       "file": "scions_of_ithelia.json"
     },
     {
       "id": "gold_road",
-      "title": "Gold Road",
-      "description": "El regreso al West Weald y la investigación sobre Ithelia, el Príncipe Daédrico olvidado, mientras sus seguidores intentan restaurar su poder y alterar el equilibrio de Tamriel.",
+      "title": "Gold Road: West Weald",
+      "type": "capitulo",
+      "description": "El Vestigio viaja a West Weald para investigar una nueva amenaza relacionada con Ithelia, un Príncipe Daédrico olvidado, y con los intentos de sus seguidores de alterar el destino y la realidad.",
       "file": "gold_road.json"
     },
     {
-      "id": "ithelia",
-      "title": "Ithelia, el Príncipe Olvidado",
-      "description": "La historia de Ithelia, su pasado, sus poderes y las consecuencias de su regreso para Tamriel y los demás Príncipes Daédricos.",
-      "file": "ithelia.json"
+      "id": "seasons_of_the_worm_cult_part_1",
+      "title": "Temporadas del Culto del Gusano — Parte 1",
+      "type": "zona_dlc",
+      "description": "El Culto del Gusano regresa y amenaza Tamriel. El Vestigio viaja a Solsticio Occidental, una isla dividida por el Muro Convulso, y descubre una nueva trama relacionada con enemigos y acontecimientos de la historia principal.",
+      "file": "seasons_of_the_worm_cult_part_1.json"
+    },
+    {
+      "id": "seasons_of_the_worm_cult_part_2",
+      "title": "Temporadas del Culto del Gusano — Parte 2",
+      "type": "zona_dlc",
+      "description": "La aventura continúa en Solsticio Oriental, al otro lado del Muro Convulso. El Vestigio debe enfrentarse a la segunda fase de los planes del Culto del Gusano y culminar esta nueva saga narrativa.",
+      "file": "seasons_of_the_worm_cult_part_2.json"
     }
   ],
-
   "characters": [],
   "locations": [],
   "factions": [],
   "lore": []
-} 
+}
