@@ -8,22 +8,92 @@
   "cover": "cover.jpg",
   "chapters": [
     {
-      "id": "soul_shriven_in_coldharbour",
-      "title": "Alma atrapada en Coldharbour",
+      "id": "un_alma_condenada_en_puerto_gelido",
+      "title": "Un alma condenada en Puerto Gélido",
       "type": "historia_principal",
-      "description": "El protagonista despierta prisionero en Coldharbour, el reino de Molag Bal, después de que le arrebaten el alma. Con la ayuda del Profeta, deberá escapar de la prisión y comenzar su lucha contra el Planemeld.",
-      "file": "soul_shriven_in_coldharbour.json"
+      "description": "El protagonista despierta en la Prisión de los Lamentos después de ser sacrificado por Mannimarco y perder su alma. Con la ayuda de Lyris Titanborn y Sir Cadwell, intenta rescatar al misterioso Profeta y escapar del reino de Molag Bal. La huida obliga a Lyris a sacrificarse para liberar al anciano y culmina con el regreso del protagonista a Tamriel.",
+      "file": "un_alma_condenada_en_puerto_gelido.json"
+    },
+    {
+      "id": "daggerfall_stros_mkai",
+      "title": "Alianza de Daggerfall: Stros M’Kai",
+      "type": "zona_alianza",
+      "description": "Tras escapar de Coldharbour, el Vestigio llega a Stros M’Kai y se une al capitán Kaleen para reunir una tripulación y ejecutar un golpe contra el jefe Bhosek. La aventura permite conocer a Lérisa, Jakarn y Néramo, además de descubrir los conflictos, ruinas y pequeñas historias que recorren la isla.",
+      "file": "stros_mkai.json"
+    },
+    {
+      "id": "daggerfall_betnikh",
+      "title": "Alianza de Daggerfall: Betnikh",
+      "type": "zona_alianza",
+      "description": "En Betnikh, el Vestigio ayuda a los orcos y descubre conflictos relacionados con las antiguas ruinas, el legado de los habitantes de la isla y las relaciones entre sus pueblos.",
+      "file": "daggerfall_betnikh.json"
+    },
+    {
+      "id": "daggerfall_glenumbra",
+      "title": "Alianza de Daggerfall: Glenumbra",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda al reino de Daggerfall frente a amenazas sobrenaturales, conspiraciones y conflictos que afectan a los bretones y a la estabilidad política de Glenumbra.",
+      "file": "daggerfall_glenumbra.json"
+    },
+    {
+      "id": "daggerfall_stormhaven",
+      "title": "Alianza de Daggerfall: Stormhaven",
+      "type": "zona_alianza",
+      "description": "Las luchas políticas y las amenazas que afectan al reino de Wayrest obligan al Vestigio a intervenir para proteger la Alianza de Daggerfall.",
+      "file": "daggerfall_stormhaven.json"
+    },
+    {
+      "id": "daggerfall_rivenspire",
+      "title": "Alianza de Daggerfall: Rivenspire",
+      "type": "zona_alianza",
+      "description": "El Vestigio se adentra en una región marcada por conflictos dinásticos, amenazas sobrenaturales y luchas por el poder que afectan al futuro de Rivenspire.",
+      "file": "daggerfall_rivenspire.json"
+    },
+    {
+      "id": "daggerfall_alikr_desert",
+      "title": "Alianza de Daggerfall: Alik’r Desert",
+      "type": "zona_alianza",
+      "description": "En el desierto de Alik’r, el Vestigio ayuda a los guardiamarinas frente a conspiraciones y amenazas que ponen en peligro sus tradiciones, sus asentamientos y su posición dentro de la Alianza.",
+      "file": "daggerfall_alikr_desert.json"
+    },
+    {
+      "id": "daggerfall_bangkorai",
+      "title": "Alianza de Daggerfall: Bangkorai",
+      "type": "zona_alianza",
+      "description": "El Vestigio ayuda a defender Bangkorai frente a una amenaza que pone en peligro la región y culmina los conflictos relacionados con la Alianza de Daggerfall.",
+      "file": "daggerfall_bangkorai.json"
+    },
+    {
+      "id": "fighters_guild",
+      "title": "Gremio de Luchadores",
+      "type": "gremio",
+      "description": "El Vestigio se une al Gremio de Luchadores y combate una amenaza relacionada con los daedra, las fuerzas de Molag Bal y los intentos de extender su influencia por Tamriel.",
+      "file": "fighters_guild.json"
+    },
+    {
+      "id": "mages_guild",
+      "title": "Gremio de Magos",
+      "type": "gremio",
+      "description": "El Vestigio se une al Gremio de Magos y sigue las investigaciones de Vanus Galerion, enfrentándose a una conspiración que amenaza el conocimiento mágico y la seguridad de Tamriel.",
+      "file": "mages_guild.json"
     },
     {
       "id": "main_quest",
       "title": "La historia principal: el Planemeld",
       "type": "historia_principal",
-      "description": "El Vestigio conoce al Profeta y a los Cinco Compañeros, descubre los planes de Molag Bal para fusionar Nirn con Coldharbour y emprende una misión que culminará en el enfrentamiento contra el Príncipe Daédrico.",
+      "description": "La trama del Profeta y los Cinco Compañeros avanza en paralelo a las campañas de las alianzas. El Vestigio descubre los planes de Molag Bal para fusionar Nirn con Coldharbour y participa en los acontecimientos que preparan el enfrentamiento contra el Príncipe Daédrico.",
       "file": "main_quest.json"
     },
     {
+      "id": "coldharbour",
+      "title": "Coldharbour: el reino de Molag Bal",
+      "type": "historia_principal",
+      "description": "Las fuerzas de las tres alianzas preparan su ofensiva contra Molag Bal. El Vestigio viaja a Coldharbour para liberar a los prisioneros, debilitar el dominio del Príncipe Daédrico y culminar la campaña del Planemeld.",
+      "file": "coldharbour.json"
+    },
+    {
       "id": "aldmeri_khenarthis_roost",
-      "title": "Dominio de Aldmer: Khenarthi's Roost",
+      "title": "Dominio de Aldmer: Khenarthi’s Roost",
       "type": "zona_alianza",
       "description": "El Dominio de Aldmer comienza su lucha por consolidar su poder. En esta isla, el Vestigio ayuda a los khajiitas y descubre una conspiración que amenaza la seguridad de la región.",
       "file": "aldmeri_khenarthis_roost.json"
@@ -58,59 +128,10 @@
     },
     {
       "id": "aldmeri_reapers_march",
-      "title": "Dominio de Aldmer: Reaper's March",
+      "title": "Dominio de Aldmer: Reaper’s March",
       "type": "zona_alianza",
-      "description": "El Vestigio ayuda a los khajiitas de Reaper's March a defender su territorio y a resolver una crisis que amenaza tanto a la población como a la unidad del Dominio.",
+      "description": "El Vestigio ayuda a los khajiitas de Reaper’s March a defender su territorio y a resolver una crisis que amenaza tanto a la población como a la unidad del Dominio.",
       "file": "aldmeri_reapers_march.json"
-    },
-    {
-      "id": "daggerfall_stros_mkai",
-      "title": "Alianza de Daggerfall: Stros M'Kai",
-      "type": "zona_alianza",
-      "description": "El Vestigio llega a Stros M'Kai y se ve envuelto en los conflictos que afectan a los corsarios, los guardias y los habitantes de esta isla vinculada al reino de los guardiamarinas.",
-      "file": "daggerfall_stros_mkai.json"
-    },
-    {
-      "id": "daggerfall_betnikh",
-      "title": "Alianza de Daggerfall: Betnikh",
-      "type": "zona_alianza",
-      "description": "En Betnikh, el Vestigio ayuda a los orcos y descubre conflictos relacionados con las antiguas ruinas, el legado de los habitantes de la isla y las relaciones entre sus pueblos.",
-      "file": "daggerfall_betnikh.json"
-    },
-    {
-      "id": "daggerfall_glenumbra",
-      "title": "Alianza de Daggerfall: Glenumbra",
-      "type": "zona_alianza",
-      "description": "El Vestigio ayuda al reino de Daggerfall frente a amenazas sobrenaturales, conspiraciones y conflictos que afectan a los bretones y a la estabilidad política de Glenumbra.",
-      "file": "daggerfall_glenumbra.json"
-    },
-    {
-      "id": "daggerfall_stormhaven",
-      "title": "Alianza de Daggerfall: Stormhaven",
-      "type": "zona_alianza",
-      "description": "Las luchas políticas y las amenazas que afectan al reino de Wayrest obligan al Vestigio a intervenir para proteger la Alianza de Daggerfall.",
-      "file": "daggerfall_stormhaven.json"
-    },
-    {
-      "id": "daggerfall_rivenspire",
-      "title": "Alianza de Daggerfall: Rivenspire",
-      "type": "zona_alianza",
-      "description": "El Vestigio se adentra en una región marcada por conflictos dinásticos, amenazas sobrenaturales y luchas por el poder que afectan al futuro de Rivenspire.",
-      "file": "daggerfall_rivenspire.json"
-    },
-    {
-      "id": "daggerfall_alikr_desert",
-      "title": "Alianza de Daggerfall: Alik'r Desert",
-      "type": "zona_alianza",
-      "description": "En el desierto de Alik'r, el Vestigio ayuda a los guardiamarinas frente a conspiraciones y amenazas que ponen en peligro sus tradiciones, sus asentamientos y su posición dentro de la Alianza.",
-      "file": "daggerfall_alikr_desert.json"
-    },
-    {
-      "id": "daggerfall_bangkorai",
-      "title": "Alianza de Daggerfall: Bangkorai",
-      "type": "zona_alianza",
-      "description": "El Vestigio ayuda a defender Bangkorai frente a una amenaza que pone en peligro la región y culmina los conflictos relacionados con la Alianza de Daggerfall.",
-      "file": "daggerfall_bangkorai.json"
     },
     {
       "id": "ebonheart_bleakrock_isle",
@@ -162,27 +183,6 @@
       "file": "ebonheart_the_rift.json"
     },
     {
-      "id": "fighters_guild",
-      "title": "Gremio de Luchadores",
-      "type": "gremio",
-      "description": "El Vestigio se une al Gremio de Luchadores y combate una amenaza relacionada con los daedra, las fuerzas de Molag Bal y los intentos de extender su influencia por Tamriel.",
-      "file": "fighters_guild.json"
-    },
-    {
-      "id": "mages_guild",
-      "title": "Gremio de Magos",
-      "type": "gremio",
-      "description": "El Vestigio se une al Gremio de Magos y sigue las investigaciones de Vanus Galerion, enfrentándose a una conspiración que amenaza el conocimiento mágico y la seguridad de Tamriel.",
-      "file": "mages_guild.json"
-    },
-    {
-      "id": "coldharbour",
-      "title": "Coldharbour: el reino de Molag Bal",
-      "type": "historia_principal",
-      "description": "Las fuerzas de las tres alianzas preparan su ofensiva contra Molag Bal. El Vestigio viaja a Coldharbour para liberar a los prisioneros, debilitar el dominio del Príncipe Daédrico y culminar la campaña del Planemeld.",
-      "file": "coldharbour.json"
-    },
-    {
       "id": "craglorn",
       "title": "Craglorn",
       "type": "zona_dlc",
@@ -190,18 +190,18 @@
       "file": "craglorn.json"
     },
     {
-      "id": "cadwells_almanac",
-      "title": "El Almanaque de Cadwell",
-      "type": "historia_secundaria",
-      "description": "Cadwell invita al Vestigio a recorrer las tierras de las otras dos alianzas y descubrir sus acontecimientos desde una perspectiva diferente, permitiendo conocer las tres campañas regionales.",
-      "file": "cadwells_almanac.json"
-    },
-    {
       "id": "imperial_city",
       "title": "Ciudad Imperial",
       "type": "zona_dlc",
       "description": "La Ciudad Imperial permanece bajo el control de las fuerzas de Molag Bal. Los combatientes de las tres alianzas se enfrentan por sus distritos mientras investigan los planes del Príncipe Daédrico y la corrupción que asola la capital.",
       "file": "imperial_city.json"
+    },
+    {
+      "id": "cadwells_almanac",
+      "title": "El Almanaque de Cadwell",
+      "type": "historia_secundaria",
+      "description": "Cadwell invita al Vestigio a recorrer las tierras de las otras dos alianzas y descubrir sus acontecimientos desde una perspectiva diferente, permitiendo conocer las tres campañas regionales.",
+      "file": "cadwells_almanac.json"
     },
     {
       "id": "orsinium",
@@ -214,7 +214,7 @@
       "id": "thieves_guild",
       "title": "Gremio de Ladrones",
       "type": "gremio",
-      "description": "El Vestigio llega a Hew's Bane y se une al Gremio de Ladrones, ayudando a recuperar su influencia en Abah's Landing mientras se enfrenta a rivales criminales y descubre secretos relacionados con la región.",
+      "description": "El Vestigio llega a Hew’s Bane y se une al Gremio de Ladrones, ayudando a recuperar su influencia en Abah’s Landing mientras se enfrenta a rivales criminales y descubre secretos relacionados con la región.",
       "file": "thieves_guild.json"
     },
     {
