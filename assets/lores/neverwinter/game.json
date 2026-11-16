@@ -1,3 +1,4 @@
+
 {
   "id": "neverwinter",
   "title": "Neverwinter",
@@ -5,7 +6,7 @@
   "developer": "Cryptic Studios",
   "genre": "MMORPG",
 
-  "description": "Las aventuras de los héroes de Neverwinter y los grandes conflictos que amenazan la Costa de la Espada.",
+  "description": "Las aventuras de los héroes de Neverwinter a través de Faerûn, desde la defensa de la Ciudad de Neverwinter hasta los conflictos que amenazan los Reinos Olvidados, la Infraoscuridad y otros planos de existencia.",
 
   "cover": "cover.jpg",
 
@@ -13,92 +14,212 @@
     {
       "id": "original_campaign",
       "title": "Neverwinter",
-      "description": "El comienzo de las aventuras en Neverwinter, desde la reconstrucción de la ciudad hasta los primeros grandes conflictos que amenazan la Costa de la Espada.",
+      "description": "Los héroes llegan a Neverwinter cuando la ciudad todavía intenta recuperarse de la devastación provocada por la Plaga de los No Muertos. La amenaza de Valindra Shadowmantle y las fuerzas que conspiran contra la ciudad marcan el comienzo de sus aventuras.",
       "file": "original_campaign.json"
     },
     {
       "id": "fury_of_the_feywild",
       "title": "Fury of the Feywild",
-      "description": "Los héroes viajan al Bosque de Neverwinter para enfrentarse a las fuerzas feéricas y a las amenazas procedentes de las Tierras Salvajes.",
+      "description": "Los héroes viajan a Sharandar, un enclave élfico situado en el Bosque de Neverwinter y conectado con el Feywild. Allí se enfrentan a las fuerzas del rey fomorio Malabog y a los conflictos que amenazan a sus habitantes.",
       "file": "fury_of_the_feywild.json"
     },
     {
       "id": "shadowmantle",
       "title": "Shadowmantle",
-      "description": "Una nueva amenaza surge en la Costa de la Espada mientras los héroes se enfrentan a la influencia de la nigromancia y a nuevos enemigos.",
+      "description": "La nigromancia vuelve a amenazar la región de Neverwinter. Los héroes investigan el Anillo del Terror, una fortaleza vinculada a la magia oscura y a las actividades de Valindra Shadowmantle.",
       "file": "shadowmantle.json"
+    },
+    {
+      "id": "curse_of_icewind_dale",
+      "title": "Curse of Icewind Dale",
+      "description": "Los conflictos llegan a las tierras heladas de Icewind Dale, donde los aventureros investigan las amenazas que afectan a la región y se enfrentan a las fuerzas que disputan el control de sus territorios.",
+      "file": "curse_of_icewind_dale.json"
     },
     {
       "id": "tyranny_of_dragons",
       "title": "Tyranny of Dragons",
-      "description": "El Culto del Dragón pone en marcha un ambicioso plan para devolver a los dragones a una posición de poder y someter la Costa de la Espada.",
+      "description": "El Culto del Dragón intensifica sus actividades y pone en marcha un plan para reunir fuerzas dracónicas. Los héroes deben investigar sus operaciones y detener una conspiración que amenaza con alterar el equilibrio de poder en Faerûn.",
       "file": "tyranny_of_dragons.json"
+    },
+    {
+      "id": "rise_of_tiamat",
+      "title": "Rise of Tiamat",
+      "description": "La conspiración del Culto del Dragón alcanza una nueva fase. Los aventureros se dirigen al Pozo de los Dragones para enfrentarse a los planes destinados a liberar a Tiamat y devolver a la Reina de los Dragones al mundo.",
+      "file": "rise_of_tiamat.json"
     },
     {
       "id": "elemental_evil",
       "title": "Elemental Evil",
-      "description": "Una nueva amenaza elemental se extiende por Faerûn mientras los héroes investigan extraños cultos y fuerzas capaces de desencadenar una gran catástrofe.",
+      "description": "Una amenaza vinculada a los cuatro elementos se extiende por Faerûn. Los héroes investigan la actividad de los cultos elementales y descubren una conspiración relacionada con las fuerzas primordiales.",
       "file": "elemental_evil.json"
+    },
+    {
+      "id": "underdark",
+      "title": "Underdark",
+      "description": "Una crisis sacude la Infraoscuridad cuando varios señores demoníacos irrumpen en sus profundidades. Los héroes se adentran en el reino subterráneo y colaboran con aliados inesperados para contener el caos que amenaza con extenderse por el mundo.",
+      "file": "underdark.json"
+    },
+    {
+      "id": "the_maze_engine",
+      "title": "The Maze Engine",
+      "description": "Una antigua amenaza demoníaca vuelve a poner en peligro los Reinos Olvidados. Los aventureros siguen el rastro de una poderosa maquinaria relacionada con los planos y se enfrentan a fuerzas que buscan aprovechar su poder.",
+      "file": "the_maze_engine.json"
     },
     {
       "id": "storm_kings_thunder",
       "title": "Storm King's Thunder",
-      "description": "Los gigantes alteran el equilibrio de poder de la Costa de la Espada y los héroes deben descubrir qué está provocando su repentina agitación.",
+      "description": "El orden de los gigantes se desmorona y sus diferentes linajes comienzan a actuar de manera impredecible. Los héroes recorren las tierras del norte para investigar el conflicto y descubrir qué ha alterado el equilibrio entre los gigantes.",
       "file": "storm_kings_thunder.json"
+    },
+    {
+      "id": "sea_of_moving_ice",
+      "title": "Sea of Moving Ice",
+      "description": "La aventura continúa en las gélidas aguas del Mar de Hielo Móvil. Los héroes exploran la región, investigan las amenazas que acechan sus costas y participan en los acontecimientos que amplían la historia de Storm King's Thunder.",
+      "file": "sea_of_moving_ice.json"
+    },
+    {
+      "id": "the_cloaked_ascendancy",
+      "title": "The Cloaked Ascendancy",
+      "description": "El Distrito del Río de Neverwinter se convierte en el escenario de una nueva conspiración. Cuatro magos poderosos compiten por el control de la ciudad y sus secretos, mientras los héroes investigan las fuerzas que amenazan su futuro.",
+      "file": "the_cloaked_ascendancy.json"
+    },
+    {
+      "id": "shroud_of_souls",
+      "title": "Shroud of Souls",
+      "description": "Una nueva amenaza sobrenatural pone en peligro Neverwinter y obliga a los héroes a investigar los acontecimientos relacionados con las almas de los habitantes de la ciudad. La historia continúa los conflictos surgidos durante The Cloaked Ascendancy.",
+      "file": "shroud_of_souls.json"
     },
     {
       "id": "tomb_of_annihilation",
       "title": "Tomb of Annihilation",
-      "description": "Una maldición mortal amenaza las almas de los habitantes de Faerûn y conduce a los héroes hasta las peligrosas tierras de Chult.",
+      "description": "Una misteriosa maldición impide que los muertos regresen a la vida y amenaza con destruir las almas de quienes han sido resucitados. Los héroes viajan a la peligrosa península de Chult para investigar su origen y detener la amenaza.",
       "file": "tomb_of_annihilation.json"
+    },
+    {
+      "id": "lost_city_of_omu",
+      "title": "Lost City of Omu",
+      "description": "La búsqueda de respuestas sobre la maldición de la muerte conduce a los héroes hasta Omu, una antigua ciudad en ruinas oculta en las junglas de Chult. La expedición continúa la historia de Tomb of Annihilation y profundiza en los secretos de la ciudad y de la Tumba de los Nueve Dioses.",
+      "file": "lost_city_of_omu.json"
     },
     {
       "id": "ravenloft",
       "title": "Ravenloft",
-      "description": "Los héroes se adentran en Barovia, un dominio oscuro dominado por el vampiro Strahd von Zarovich.",
+      "description": "Los héroes son conducidos hasta Barovia, un dominio aislado y envuelto en oscuridad. Allí deben enfrentarse a las amenazas que dominan la región y al poder de Strahd von Zarovich, el señor vampírico de Ravenloft.",
       "file": "ravenloft.json"
+    },
+    {
+      "id": "the_heart_of_fire",
+      "title": "The Heart of Fire",
+      "description": "Los héroes colaboran con la organización Acquisitions Incorporated en una aventura que combina exploración, encargos y situaciones inesperadas. La campaña introduce una historia de tono humorístico dentro del universo de Neverwinter.",
+      "file": "the_heart_of_fire.json"
     },
     {
       "id": "undermountain",
       "title": "Undermountain",
-      "description": "Los aventureros descienden a las profundidades de la Montaña Subterránea, el enorme complejo de mazmorras situado bajo Neverwinter.",
+      "description": "Los aventureros descienden a Undermountain, el inmenso complejo de mazmorras situado bajo Waterdeep. En sus profundidades descubren los peligros y secretos de un lugar dominado por la influencia del poderoso mago Halaster Blackcloak.",
       "file": "undermountain.json"
     },
     {
-      "id": "descent_into_avernus",
-      "title": "Descent into Avernus",
-      "description": "Los héroes se enfrentan a una amenaza infernal y viajan hasta Avernus, el primer nivel de los Nueve Infiernos.",
-      "file": "descent_into_avernus.json"
+      "id": "uprising",
+      "title": "Uprising",
+      "description": "Una nueva amenaza surge en Stardock, una instalación vinculada a la actividad de los gith. Los héroes investigan los acontecimientos que tienen lugar en sus instalaciones y se enfrentan a los peligros que se ocultan en sus profundidades.",
+      "file": "uprising.json"
     },
     {
-      "id": "sharandar",
+      "id": "infernal_descent",
+      "title": "Infernal Descent",
+      "description": "Los secretos de la familia Vallenhas salen a la luz cuando su hacienda queda atrapada en una crisis de origen infernal. Los héroes investigan los acontecimientos y descubren que las decisiones del pasado han abierto la puerta a una amenaza procedente de los Nueve Infiernos.",
+      "file": "infernal_descent.json"
+    },
+    {
+      "id": "avernus",
+      "title": "Avernus",
+      "description": "La aventura continúa en Avernus, el primer nivel de los Nueve Infiernos. Los héroes ayudan a Lulu y a sus aliados en la búsqueda de la espada de Zariel, una reliquia vinculada al destino de la archidiablesa y a la esperanza de redimir su alma.",
+      "file": "avernus.json"
+    },
+    {
+      "id": "sharandar_renewed",
       "title": "Sharandar",
-      "description": "Una antigua región feérica se convierte en el escenario de nuevos conflictos y misterios relacionados con las fuerzas de la naturaleza y la magia.",
-      "file": "sharandar.json"
+      "description": "Años después de los acontecimientos de Fury of the Feywild, los héroes regresan a Sharandar. El Feywild ha cambiado y una nueva amenaza se extiende por sus territorios, enfrentando a los aventureros con las fuerzas de la Corte del Crepúsculo y sus misterios.",
+      "file": "sharandar_renewed.json"
     },
     {
       "id": "dragonbone_vale",
       "title": "Dragonbone Vale",
-      "description": "Los héroes regresan a la Costa de la Espada para enfrentarse a nuevas amenazas relacionadas con los dragones y sus antiguos enemigos.",
+      "description": "Una nueva amenaza dracónica lleva a los héroes hasta el Valle del Hueso de Dragón. Allí investigan las actividades de los cultistas y las fuerzas que pretenden alterar el destino de los dragones en los Reinos Olvidados.",
       "file": "dragonbone_vale.json"
     },
     {
-      "id": "jungle_of_chult",
-      "title": "Jungla de Chult",
-      "description": "Nuevas aventuras llevan a los héroes de vuelta a las peligrosas junglas de Chult y a los misterios que permanecen ocultos en sus profundidades.",
-      "file": "jungle_of_chult.json"
+      "id": "dragonslayer",
+      "title": "Dragonslayer",
+      "description": "Los héroes continúan su lucha contra las amenazas dracónicas y se enfrentan a nuevos desafíos relacionados con los dragones. La campaña amplía los acontecimientos y conflictos introducidos en Dragonbone Vale.",
+      "file": "dragonslayer.json"
     },
     {
       "id": "northdark_reaches",
       "title": "Northdark Reaches",
-      "description": "Los aventureros se adentran en las profundidades de la Infraoscuridad para enfrentarse a nuevos peligros y descubrir los secretos de las regiones subterráneas.",
+      "description": "Los aventureros regresan a la Infraoscuridad para explorar nuevas regiones subterráneas. Allí descubren los conflictos que afectan a sus habitantes y las amenazas que se desarrollan en las profundidades.",
       "file": "northdark_reaches.json"
     },
     {
       "id": "menzoberranzan",
       "title": "Menzoberranzan",
-      "description": "La historia conduce a los héroes hasta la ciudad drow de Menzoberranzan y a los conflictos que amenazan con extenderse por la Infraoscuridad.",
+      "description": "Los héroes llegan a Menzoberranzan, la legendaria ciudad drow gobernada por poderosas casas nobles y dominada por la influencia de Lolth. Las intrigas políticas y las tensiones entre sus habitantes amenazan con desencadenar nuevos conflictos en la Infraoscuridad.",
       "file": "menzoberranzan.json"
+    },
+    {
+      "id": "demonweb_pits",
+      "title": "Demonweb Pits",
+      "description": "La influencia de Lolth se extiende más allá de Menzoberranzan y conduce a los héroes hasta los dominios de la Reina Demonio de las Arañas. Los aventureros deben enfrentarse a nuevas amenazas relacionadas con su poder y sus planes.",
+      "file": "demonweb_pits.json"
+    },
+    {
+      "id": "spelljammer",
+      "title": "Spelljammer",
+      "description": "Los héroes abandonan los confines habituales de Faerûn para adentrarse en el espacio salvaje, un entorno donde la magia permite viajar entre mundos a bordo de embarcaciones capaces de navegar por el vacío.",
+      "file": "spelljammer.json"
+    },
+    {
+      "id": "adventures_in_wildspace",
+      "title": "Adventures in Wildspace",
+      "description": "Las aventuras continúan en el espacio salvaje, donde los héroes exploran nuevos territorios y se enfrentan a los peligros que acechan entre los mundos. La campaña amplía las experiencias introducidas en Spelljammer.",
+      "file": "adventures_in_wildspace.json"
+    },
+    {
+      "id": "mountain_of_flame",
+      "title": "Mountain of Flame",
+      "description": "Los aventureros se enfrentan a una nueva expedición en la Montaña de la Llama, donde deberán descubrir los peligros que se ocultan en este territorio y afrontar los conflictos que amenazan la región.",
+      "file": "mountain_of_flame.json"
+    },
+    {
+      "id": "as_above_so_below",
+      "title": "As Above, So Below – Return to Pirates' Skyhold",
+      "description": "Los héroes regresan a Pirates' Skyhold para enfrentarse a nuevos peligros y descubrir los acontecimientos que amenazan este enclave. La aventura continúa ampliando las historias y los escenarios de Neverwinter.",
+      "file": "as_above_so_below.json"
+    },
+    {
+      "id": "the_bloom_before_the_blood",
+      "title": "The Bloom Before the Blood",
+      "description": "Una nueva etapa narrativa prepara el terreno para los acontecimientos de Red Harvest. Los héroes descubren las señales de una amenaza que empieza a tomar forma en los Reinos Olvidados.",
+      "file": "the_bloom_before_the_blood.json"
+    },
+    {
+      "id": "red_harvest",
+      "title": "Red Harvest",
+      "description": "Una nueva amenaza vinculada a Thay y a la magia de los muertos vivientes obliga a los héroes a investigar los planes de sus enemigos. La campaña introduce un conflicto que conduce hasta las fuerzas de Szass Tam y su búsqueda de poder.",
+      "file": "red_harvest.json"
+    },
+    {
+      "id": "the_soul_collector",
+      "title": "Red Harvest Part II – The Soul Collector",
+      "description": "La amenaza de Szass Tam continúa y el lich pone en marcha nuevos planes relacionados con su Ritual de Ascendencia. Los héroes se adentran en las instalaciones del Doomvault para enfrentarse a sus experimentos y detener sus ambiciones.",
+      "file": "the_soul_collector.json"
+    },
+    {
+      "id": "biting_cold",
+      "title": "Biting Cold",
+      "description": "Los aventureros viajan hasta Reghed Edge, al norte de Icewind Dale, donde el deshielo de antiguos glaciares y la actividad de los gigantes de escarcha amenazan a los habitantes de la región. La expedición conduce a los héroes hasta las profundidades heladas de Jotunskar.",
+      "file": "biting_cold.json"
     }
   ],
 
