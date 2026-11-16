@@ -2,23 +2,11 @@
   "id": "powerlust",
   "title": "Powerlust",
   "shortTitle": "Powerlust",
-  "developer": "",
-  "genre": "",
-
+  "developer": "Bartłomiej Grejpc",
+  "genre": "Action RPG / Dungeon Crawler",
   "description": "",
-
   "cover": "",
-
-  "chapters": [
-    {
-      "id": "",
-      "title": "",
-      "type": "",
-      "description": "",
-      "file": "x.json"
-    }
-  ],
-
+  "chapters": [],
   "characters": [],
   "locations": [],
   "factions": [],
