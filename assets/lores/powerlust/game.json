@@ -1,0 +1,36 @@
+{
+  "id": "evocreo",
+  "title": "EvoCreo",
+  "shortTitle": "EvoCreo",
+  "developer": "Ilmfinity Studios",
+  "genre": "RPG de captura de criaturas",
+  "description": "La historia de un joven Evoker que recorre Zenith en busca de su padre desaparecido y termina descubriendo los planes de Shadow Hive y otros misterios relacionados con los Creo.",
+  "cover": "cover.jpg",
+  "chapters": [
+    {
+      "id": "historia_principal",
+      "title": "Historia principal",
+      "type": "historia_principal",
+      "description": "El protagonista comienza su viaje por Zenith para encontrar a su padre desaparecido. Mientras intenta convertirse en un Evoking Master y supera las distintas regiones y desafíos del mundo, descubre una conspiración relacionada con Shadow Hive.",
+      "file": "historia_principal.json"
+    },
+    {
+      "id": "assault_on_shadow_hive_base",
+      "title": "Assault on Shadow Hive Base",
+      "type": "historia_secundaria",
+      "description": "Después de la derrota de Shadow Hive en Zenith, una nueva operación de la organización amenaza una isla remota. El protagonista viaja hasta su base secreta para descubrir sus nuevos planes y acabar con ellos.",
+      "file": "assault_on_shadow_hive_base.json"
+    },
+    {
+      "id": "alphite_emergence",
+      "title": "Alphite Emergence",
+      "type": "historia_secundaria",
+      "description": "Una nueva aventura lleva al protagonista hasta un campamento secreto de refugiados Alphite, que están siendo atacados por un poderoso Prime Creo. Allí deberá ayudar a los refugiados y descubrir qué está ocurriendo.",
+      "file": "alphite_emergence.json"
+    }
+  ],
+  "characters": [],
+  "locations": [],
+  "factions": [],
+  "lore": []
+}
